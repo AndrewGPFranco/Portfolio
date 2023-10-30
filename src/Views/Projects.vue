@@ -3,7 +3,14 @@
     <Navbar />
   </header>
   <main>
-    <Card />
+    <Card src="https://i.ibb.co/vQq0LC0/PROPS.jpg"
+      title= "PLATAFORMA DE TI"
+      link= "https://github.com/AndrewGPSilva/FrontEnd---PlataformaTI"
+    />
+    <Card src="https://i.ibb.co/tD0dByw/INERTIA.jpg"
+      title= "INERTIA"
+      link= "https://github.com/AndrewGPSilva/FrontEnd---PlataformaTI"
+    />
   </main>
   <footer>
     <Baseboard />
@@ -28,6 +35,5 @@
   main {
     background-image: url("../assets/fundoProjects.jpg");
     background-size: cover;
-    height: 80vh;
   }
 </style>
