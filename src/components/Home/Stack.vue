@@ -13,8 +13,7 @@
       <picture class="bg-gray-900 w-4/12  m-1 flex justify-center rounded-3xl">
         <img class="w-3/4" src="../../assets/laravel.png" alt="Logo da Tecnologia" />
       </picture>
-    </div>
-    <Line />
+    </div> 
   </section>
 </template>
 

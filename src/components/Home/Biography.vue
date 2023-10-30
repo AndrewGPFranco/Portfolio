@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-black p-4 -mb-5">
+  <section class="bg-black p-4 -mb-5 -mt-2">
     <div class="text-center text-bold text-2xl -mt-1.5">
       <h1 class="text-blue-400">My Biography</h1>
     </div>
