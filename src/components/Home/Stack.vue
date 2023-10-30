@@ -1,5 +1,5 @@
 <template>
-  <section class="bg-black flex flex-col">
+  <section class="bg-black flex flex-col -mt-2">
     <div class="text-center text-bold text-lg mt-3">
       <h1 class="text-blue-400">Stack Used to Create this Page</h1>
     </div>
