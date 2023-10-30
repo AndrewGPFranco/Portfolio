@@ -1,7 +1,7 @@
 <template>
     <section class="bg-black">
 <div class="bg-black">
-      <img class="p-1 mb-0.5 rounded-2xl" src="../../assets/banner.jpg" alt="Banner" />
+      <img class="p-2 mb-0.5 rounded-2xl" src="../../assets/banner.jpg" alt="Banner" />
     </div>
       <div class="bg-black">
         <Line />
