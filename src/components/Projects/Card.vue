@@ -1,6 +1,6 @@
 <template>
-  <section class="pt-3 pb-1 px-10">
-    <div class="bg-green-900 p-4 rounded-3xl flex flex-col">
+  <section class="pt-3 bg-black pb-1 px-10">
+    <div class="bg-gray-900 p-4 rounded-3xl flex flex-col">
     <div class="mb-2">
       <img class="border border-orange-400" :src="src" alt="Imagem" />
     </div>

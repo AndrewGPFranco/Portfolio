@@ -3,7 +3,7 @@
     <Navbar />
   </header>
   <main>
-    <h1 class="text-blue-400 text-3xl text-center pt-5 font-bold">My Project Library</h1>
+    <h1 class="text-blue-400 text-3xl text-center pt-5 font-bold bg-black">My Projects Library</h1>
     <Card src="https://i.ibb.co/vQq0LC0/PROPS.jpg"
       title= "PLATAFORMA DE TI"
       link= "https://github.com/AndrewGPSilva/FrontEnd---PlataformaTI"
@@ -31,10 +31,3 @@
     }
   }
 </script>
-
-<style scoped>
-  main {
-    background-image: url("../assets/fundoProjects.jpg");
-    background-size: cover;
-  }
-</style>
