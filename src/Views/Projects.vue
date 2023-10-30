@@ -2,7 +2,9 @@
   <header>
     <Navbar />
   </header>
-  <h1>Projects</h1>
+  <main>
+    <Card />
+  </main>
   <footer>
     <Baseboard />
   </footer>
@@ -11,11 +13,21 @@
 <script>
   import Baseboard from "../components/Global/Baseboard.vue"
   import Navbar from "../components/Global/Navbar.vue"
+  import Card from "../components/Projects/Card.vue"
   export default {
     name: "Projects",
     components: {
       Navbar,
-      Baseboard
+      Baseboard,
+      Card
     }
   }
 </script>
+
+<style scoped>
+  main {
+    background-image: url("../assets/fundoProjects.jpg");
+    background-size: cover;
+    height: 80vh;
+  }
+</style>
