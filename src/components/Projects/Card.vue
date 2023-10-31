@@ -10,7 +10,7 @@
     </div>
     <div class="p-3 text-center font-bold text-2xl text-gray-200">
       <h1 class="mb-3">{{ title }}</h1>
-      <a :href="link" class="bg-gray-200 text-black p-1.5 rounded-2xl">ACCESS</a>
+      <a :href="link" target="_blank" class="bg-gray-200 text-black p-1.5 rounded-2xl">ACCESS</a>
     </div>
   </div>
   </section>
