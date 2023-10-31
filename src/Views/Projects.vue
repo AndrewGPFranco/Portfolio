@@ -1,8 +1,8 @@
 <template>
-  <!--<header>
+  <header>
     <Navbar />
-  </header>-->
-  <main>
+  </header>
+  <main class="bg-black">
     <h1 class="text-blue-400 text-3xl text-center pt-5 font-bold">My Projects Library</h1>
     <div class="p-4">
     <Card 
@@ -38,9 +38,9 @@
     <BackHome />
     </div>
   </main>
-  <!--<footer>
+  <footer>
     <Baseboard />
-  </footer>-->
+  </footer>
 </template>
 
 <script>
@@ -58,10 +58,3 @@
     }
   }
 </script>
-
-<style scoped>
-  main {
-    background-image: url("../assets/library.jpg");
-    background-size: cover;
-  }
-</style>

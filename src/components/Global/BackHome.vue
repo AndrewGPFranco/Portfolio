@@ -1,7 +1,7 @@
 <template>
   <div class="flex justify-center pt-3">
     <router-link to="/">
-      <button class="p-3 text-blue-500 bg-black rounded-2xl">Back to Home</button>
+      <button class="p-3 text-blue-500 bg-gray-900 rounded-2xl">Back to Home</button>
     </router-link>
   </div>
 </template>
