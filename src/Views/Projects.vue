@@ -1,9 +1,9 @@
 <template>
-  <header>
+  <!--<header>
     <Navbar />
-  </header>
+  </header>-->
   <main>
-    <h1 class="text-blue-400 text-3xl text-center pt-5 font-bold bg-black">My Projects Library</h1>
+    <h1 class="text-blue-400 text-3xl text-center pt-5 font-bold">My Projects Library</h1>
     <Card 
       src="https://i.ibb.co/fqnhssG/blog.png"
       title= "Blog of GPS"
@@ -35,9 +35,9 @@
       link= "https://github.com/AndrewGPSilva/api_nodejs"
     />
   </main>
-  <footer>
+  <!--<footer>
     <Baseboard />
-  </footer>
+  </footer>-->
 </template>
 
 <script>
@@ -53,3 +53,10 @@
     }
   }
 </script>
+
+<style scoped>
+  main {
+    background-image: url("../assets/library.jpg");
+    background-size: cover;
+  }
+</style>
