@@ -2,9 +2,9 @@
   <nav class="flex flex-col">
     <div class="flex justify-between p-5 bg-black items-center">
       <router-link to="/"><img class="w-12 h-12 ml-4" src="../../assets/logo.png" alt="Logo" /></router-link>
-      <p @click="showMenu" class="text-orange-500 mr-4 text-xl">
+      <button @click="showMenu" class="text-orange-500 mr-4 text-xl">
         <i class="pi pi-align-justify"></i>
-      </p>
+      </button>
     </div>
     <div v-show="ativado">
       <ul class="text-white flex flex-col text-end bg-black">
