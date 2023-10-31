@@ -8,7 +8,6 @@ import './assets/main.css'
 
 import Home from './Views/Home.vue'
 import Projects from './Views/Projects.vue'
-import Skills from './Views/Skills.vue'
 
 const router = createRouter({ 
   history: createWebHistory(),
@@ -20,10 +19,6 @@ const router = createRouter({
     {
       path: "/projects",
       component: Projects
-    },
-    {
-      path: "/skills",
-      component: Skills
     }
   ]
 })

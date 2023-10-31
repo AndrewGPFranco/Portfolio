@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "nome": "Laravel",
+    "imagem": "https://i.ibb.co/drrxzN9/laravel.png"
+  },
+  {
+    "id": 2,
+    "nome": "PHP",
+    "imagem": "https://i.ibb.co/cC7pdTY/php.png"
+  },
+  {
+    "id": 3,
+    "nome": "Python",
+    "imagem": "https://i.ibb.co/Jz5XpmW/python.png"
+  },
+  {
+    "id": 4,
+    "nome": "Spring Boot",
+    "imagem": "https://i.ibb.co/f27wdz5/spring.png"
+  },
+  {
+    "id": 5,
+    "nome": "Java",
+    "imagem": "https://i.ibb.co/tYgKkz4/java.png"
+  },
+  {
+    "id": 6,
+    "nome": "CSharp",
+    "imagem": "https://i.ibb.co/q0WvKG3/csharp.png"
+  },
+  {
+    "id": 7,
+    "nome": ".NET",
+    "imagem": "https://i.ibb.co/H7RhJhH/dotnet.png"
+  },
+  {
+    "id": 8,
+    "nome": "Javascript",
+    "imagem": "https://i.ibb.co/k2YWfNf/javascript.png"
+  },
+  {
+    "id": 9,
+    "nome": "Typescript",
+    "imagem": "https://i.ibb.co/yYyxVqh/typescript.png"
+  },
+  {
+    "id": 10,
+    "nome": "Vue",
+    "imagem": "https://i.ibb.co/HXq4tBM/vue.png"
+  },
+  {
+    "id": 11,
+    "nome": "React",
+    "imagem": "https://i.ibb.co/9t6YkBF/react.png"
+  },
+  {
+    "id": 12,
+    "nome": "HTML",
+    "imagem": "https://i.ibb.co/WnqxL8d/html.png"
+  },
+  {
+    "id": 13,
+    "nome": "CSS",
+    "imagem": "https://i.ibb.co/bFXpr1R/css.png"
+  },
+  {
+    "id": 14,
+    "nome": "Tailwind",
+    "imagem": "https://i.ibb.co/Yht90fY/tailwind.png"
+  },
+  {
+    "id": 15,
+    "nome": "Bootstrap",
+    "imagem": "https://i.ibb.co/nCZj6xt/bootstrap.png"
+  }
+]
