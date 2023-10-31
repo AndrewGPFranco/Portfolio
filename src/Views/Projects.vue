@@ -4,6 +4,7 @@
   </header>-->
   <main>
     <h1 class="text-blue-400 text-3xl text-center pt-5 font-bold">My Projects Library</h1>
+    <div class="p-4">
     <Card 
       src="https://i.ibb.co/fqnhssG/blog.png"
       title= "Blog of GPS"
@@ -34,6 +35,8 @@
       title= "API with NodeJs"
       link= "https://github.com/AndrewGPSilva/api_nodejs"
     />
+    <BackHome />
+    </div>
   </main>
   <!--<footer>
     <Baseboard />
@@ -44,12 +47,14 @@
   import Baseboard from "../components/Global/Baseboard.vue"
   import Navbar from "../components/Global/Navbar.vue"
   import Card from "../components/Projects/Card.vue"
+  import BackHome from "../components/Global/BackHome.vue"
   export default {
     name: "Projects",
     components: {
       Navbar,
       Baseboard,
-      Card
+      Card,
+      BackHome
     }
   }
 </script>
