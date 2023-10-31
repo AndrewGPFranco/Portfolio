@@ -73,5 +73,10 @@
     "id": 15,
     "nome": "Bootstrap",
     "imagem": "https://i.ibb.co/nCZj6xt/bootstrap.png"
+  },
+  {
+    "id": 16,
+    "nome": "MySql",
+    "imagem": "https://i.ibb.co/wyzL97g/mysql.png"
   }
 ]
