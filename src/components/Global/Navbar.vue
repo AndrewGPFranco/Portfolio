@@ -10,7 +10,6 @@
       <ul class="text-white flex flex-col text-end bg-black">
         <router-link to ="/" class="flex justify-end"><li class="bg-blue-500 text-white p-1 text-center m-1 rounded-lg w-2/5 font-bold">Home</li></router-link>
         <router-link to ="/projects" class="flex justify-end"><li class="bg-blue-500 text-white p-1 text-center m-1  rounded-lg w-2/5 font-bold">Projects</li></router-link>
-        <router-link to ="/skills" class="flex justify-end"><li class="bg-blue-500 text-white p-1 text-center m-1  rounded-lg w-2/5 font-bold">Skills</li></router-link>
       </ul>
     </div>
     <div class="bg-black">
