@@ -3,7 +3,7 @@
     <Navbar />
     <Search />
     <Category />
-    <div class="overflow-x-auto flex p-6">
+    <div class="overflow-x-auto flex pr-8 pl-2">
       <Card />
       <Card />
       <Card />
