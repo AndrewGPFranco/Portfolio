@@ -1,22 +1,21 @@
 <template>
-  <section>
-    <div class="flex justify-around p-5">
+  <section class="px-3 pb-3">
+    <div class="flex justify-around p-5 border border-blue-300 rounded-full">
       <div class="flex flex-col text-center py-2">
-        <i class="pi pi-home text-blue-500" style="font-size: 1.5rem;"></i>
-        <p class="text-blue-500 font-bold">HOME</p>
+        <router-link to="/"><i class="pi pi-home text-blue-500" style="font-size: 1.5rem;"></i>
+        <p class="text-blue-500 font-bold">HOME</p></router-link>
       </div>
       <div class="flex flex-col text-center py-2">
-      <i class="pi pi-heart text-blue-500" style="font-size: 1.5rem;"></i>
+      <router-link to="/"><i class="pi pi-heart text-blue-500" style="font-size: 1.5rem;"></i></router-link>
         <p class="text-blue-500 font-bold">FAVORITE</p>
       </div>
       <div class="flex flex-col text-center py-2">
-      <i class="pi pi-comment text-blue-500" style="font-size: 1.5rem;"></i>
-      <p class="text-blue-500 font-bold">COMMENTS</p>
+      <router-link to="/"><i class="pi pi-comment text-blue-500" style="font-size: 1.5rem;"></i>
+      <p class="text-blue-500 font-bold">COMMENTS</p></router-link>
       </div>
       <div class="flex flex-col text-center py-2">
-      <i class="pi pi-cog text-blue-500" style="font-size: 1.5rem;"></i>
-        <p class="text-blue-500 font-bold">A
-        CONFIG</p>
+      <router-link to="/"><i class="pi pi-cog text-blue-500" style="font-size: 1.5rem;"></i>
+        <p class="text-blue-500 font-bold">CONFIG</p></router-link>
       </div>
     </div>
   </section>
