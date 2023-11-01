@@ -8,6 +8,7 @@ import './assets/main.css'
 
 import Home from './Views/Home.vue'
 import Projects from './Views/Projects.vue'
+import Articles from './Views/Articles.vue'
 
 const router = createRouter({ 
   history: createWebHistory(),
@@ -19,6 +20,10 @@ const router = createRouter({
     {
       path: "/projects",
       component: Projects
+    },
+    {
+      path: "/articles",
+      component: Articles
     }
   ]
 })
