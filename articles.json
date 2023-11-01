@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "C#",
+    "description": "A linguagem C# é uma linguagem de programação orientada a objetos desenvolvida pela Microsoft. É uma linguagem de propósito geral, o que significa que pode ser usada para criar uma ampla variedade de aplicativos.",
+    "author": "IA Bard",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRwdeJXSa_SdAEO0Ta-t_ttJa_guAzqfqZmQ&usqp=CAU"
+  },
+  {
+    "id": 2,
+    "title": "PHP",
+    "description": "A linguagem PHP é uma linguagem de programação interpretada, de script, de propósito geral, livre e de código aberto. É usada principalmente para desenvolvimento web e pode ser usada para criar uma ampla variedade de sites e aplicativos.",
+    "author": "IA Bard",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkEVgrBn50FiYhDUpsLtEA69ulNK4dY0elZQ&usqp=CAU"
+  },
+  {
+    "id": 3,
+    "title": "Java",
+    "description": "A linguagem Java é uma linguagem de programação orientada a objetos, compilada e interpretada. É uma linguagem de propósito geral, o que significa que pode ser usada para criar uma ampla variedade de aplicativos.",
+    "author": "IA Bard",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTArqoxQVIRMqz1cJ6Kv-vM8HmQttkHy4s9MQ&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "title": "Ruby",
+    "description": "A linguagem Ruby é uma linguagem de programação interpretada, de propósito geral, de script e orientada a objetos. É conhecida por sua sintaxe concisa e fácil de aprender, bem como por sua comunidade ativa e amigável.",
+    "author": "IA Bard",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdfp1gTEceP77jF4FEh9OP8EnVfb68A-YNSA&usqp=CAU"
+  },
+  {
+    "id": 5,
+    "title": "Python",
+    "description": "A linguagem Python é uma linguagem de programação interpretada, de alto nível, de propósito geral, de script e orientada a objetos. É conhecida por sua sintaxe concisa e fácil de aprender, bem como por sua ampla gama de bibliotecas e ferramentas.",
+    "author": "IA Bard",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF071kARtJ1047YvdpbNiPEMpsjxMOKYtAKg&usqp=CAU"
+  },
+  {
+    "id": 6,
+    "title": "C++",
+    "description": "A linguagem C++ é uma linguagem de programação compilada, imperativa, orientada a objetos e de propósito geral. É conhecida por sua eficiência e desempenho, bem como por sua ampla gama de bibliotecas e ferramentas.",
+    "author": "IA Bard",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaamG0ehE2XBRA2SRx8d2bvS2w9fx3GktDIA&usqp=CAU"
+  }
+]
