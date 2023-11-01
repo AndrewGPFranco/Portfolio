@@ -3,7 +3,14 @@
     <Navbar />
     <Search />
     <Category />
-    <Card />
+    <div class="overflow-x-auto flex p-6">
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+    </div>
   </div>
 </template>
 <script>

@@ -1,8 +1,8 @@
 <template>
-  <section class="p-5 w-4/5">
+  <section class="py-1 px-2 min-w-full">
     <div class="rounded-2xl bg-black flex flex-col">
-      <img class="rounded-2xl" src="../../assets/csharpimage.jpeg" alt="Imagem" />
-      <div class="p-3 text-white">
+      <img class="rounded-t-2xl" src="../../assets/csharpimage.jpeg" alt="Imagem" />
+      <div class="p-5 text-white">
         <h1>Csharp</h1>
         <p>Description</p>
       </div>
