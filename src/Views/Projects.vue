@@ -6,6 +6,11 @@
     <h1 class="text-blue-400 text-3xl text-center pt-5 font-bold">My Projects Library</h1>
     <div class="p-4">
     <Card 
+      src="https://i.ibb.co/MGg05dJ/plat.png"
+      title= "TI Platform"
+      link= "https://github.com/AndrewGPSilva/FrontEnd---PlataformaTI"
+    />
+    <Card 
       src="https://i.ibb.co/fqnhssG/blog.png"
       title= "Blog of GPS"
       link= "https://blog-vue-replit.vercel.app"
