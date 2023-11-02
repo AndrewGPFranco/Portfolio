@@ -2,9 +2,9 @@
   <section>
     <div>
       <ul class="flex justify-between py-4 px-8 font-bold text-gray-600 text-xl">
-        <li>Back-End</li>
-        <li>Front-End</li>
-        <li>Fullstack</li>
+        <li class="underline">Back-End</li>
+        <li class="underline">Front-End</li>
+        <li class="underline">Fullstack</li>
       </ul>
     </div>
   </section>

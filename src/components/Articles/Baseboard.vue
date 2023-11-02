@@ -26,3 +26,9 @@
     name: "Baseboard"
   }
 </script>
+
+<style scoped>
+  p:hover {
+    text-decoration: underline;
+  }
+</style>

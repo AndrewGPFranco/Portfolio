@@ -3,7 +3,7 @@
     <h1 class="text-blue-500 text-center text-2xl">My Hard Skills</h1>
     <div class="flex flex-wrap justify-center mt-1">
         <img 
-          class="w-20 m-1 h-20" 
+          class="w-20 m-1 h-20 cursor-pointer" 
           v-for="image in language" 
           :key="image.id" 
           :src="image.imagem" 
