@@ -21,11 +21,6 @@
       link= "https://presentation-bice.vercel.app"
     />
     <Card 
-      src="https://i.ibb.co/2v4gDq1/Screenshot-68.png"
-      title= "Plataforma TI"
-      link= "https://github.com/AndrewGPSilva/FrontEnd---PlataformaTI"
-    />
-    <Card 
       src="https://i.ibb.co/rpgGQPX/api.jpg"
       title= "API with Laravel"
       link= "https://github.com/AndrewGPSilva/Api_PlataformaTI"
