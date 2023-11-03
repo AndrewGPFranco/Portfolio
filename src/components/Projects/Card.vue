@@ -5,7 +5,7 @@
       <img class="border border-orange-400" :src="src" alt="Imagem" />
     </div>
     <div class="w-full flex justify-center bg-gray-900 -mb-1">
-        <div class="w-4/5 bg-black h-1">
+        <div class="w-4/5 bg-gray-200 h-1">
         </div>
     </div>
     <div class="p-3 text-center font-bold text-2xl text-gray-200">
