@@ -1,16 +1,19 @@
 <template>
   <nav class="flex flex-col">
-    <div class="flex justify-between p-5 bg-black items-center">
-      <router-link to="/"><img class="w-12 h-12 ml-4" src="../../assets/logo.png" alt="Logo" /></router-link>
-      <button @click="showMenu" class="text-orange-500 mr-4 text-xl">
+    <div class="flex justify-between p-5 bg-white items-center">
+      <router-link to="/"><img class="w-14 h-14 ml-4" src="../../assets/logo.png" alt="Logo" /></router-link>
+      <button v-if="!ativado" @click="showMenu" class="text-black mr-4 text-lg">
         <i class="pi pi-align-justify"></i>
+      </button>
+      <button v-if="ativado" @click="showMenu" class="text-black mr-4 text-lg">
+        <i class="pi pi-times"></i>
       </button>
     </div>
     <div v-show="ativado">
-      <ul class="text-white flex flex-col text-end bg-black">
-        <router-link to ="/" class="flex justify-end"><li class="bg-blue-500 text-white p-1 text-center m-1 rounded-lg w-2/5 font-bold">Home</li></router-link>
-        <router-link to ="/projects" class="flex justify-end"><li class="bg-blue-500 text-white p-1 text-center m-1  rounded-lg w-2/5 font-bold">Projects</li></router-link>
-        <router-link to ="/articles" class="flex justify-end"><li class="bg-blue-500 text-white p-1 text-center m-1  rounded-lg w-2/5 font-bold">Articles</li></router-link>
+      <ul class="text-black flex flex-col text-center bg-white p-5">
+        <router-link to ="/" class="flex justify-center"><li class="text-purple-700 border-2 border-purple-500 px-5 py-1 text-center text-xl m-1 rounded-full w-auto font-bold">Home</li></router-link>
+        <router-link to ="/articles" class="flex justify-center"><li class=" text-purple-700 border-2 border-purple-500 px-5 py-1 text-center m-1 text-xl rounded-full w-auto font-bold">Articles</li></router-link>
+        <router-link to ="/projects" class="flex justify-center"><li class="text-purple-700 border-2 border-purple-500 text-xl px-5 py-1 text-center m-1 rounded-full w-auto font-bold">Projects</li></router-link>
       </ul>
     </div>
     <div class="bg-black">
