@@ -1,5 +1,5 @@
 <template>
-  <section class="pt-3 pb-1 px-10">
+  <section class="pt-3 pb-1 px-10 min-w-full -ml-7">
     <div class="bg-gray-900 p-4 rounded-3xl flex flex-col">
     <div class="mb-2">
       <img class="border border-orange-400" :src="src" alt="Imagem" />

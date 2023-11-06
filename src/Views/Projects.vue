@@ -2,11 +2,11 @@
   <header>
     <Navbar />
   </header>
-  <main class="bg-white">
-    <h1 class="text-blue-400 text-3xl text-center pt-5 font-bold">
+  <main class="py-4">
+    <h1 class="text-white text-3xl text-center pt-5 font-bold">
       My Projects Library
     </h1>
-    <div class="p-4">
+    <div class="p-4 flex overflow-x-auto">
       <Card 
         src="https://i.ibb.co/MGg05dJ/plat.png"
         title= "TI Platform"
@@ -37,7 +37,6 @@
         title= "API with NodeJs"
         link= "https://github.com/AndrewGPSilva/api_nodejs"
       />
-      <BackHome />
     </div>
   </main>
   <footer>
@@ -60,3 +59,9 @@
     }
   }
 </script>
+
+<style scoped>
+  main {
+    background-image: url("../assets/library.jpg");
+  }
+</style>
