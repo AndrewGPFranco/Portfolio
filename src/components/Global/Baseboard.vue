@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-black text-orange-500 text-center p-2.5">
+  <footer class="bg-white text-orange-500 text-center p-2.5">
     <Line />
     <h1 class="mt-2.5">&copy; {{ year }} All Rights Reserved</h1>
     <Networks/>

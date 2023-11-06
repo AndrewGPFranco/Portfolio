@@ -2,7 +2,7 @@
   <header>
     <Navbar />
   </header>
-  <main class="bg-black">
+  <main class="bg-white">
     <h1 class="text-blue-400 text-3xl text-center pt-5 font-bold">
       My Projects Library
     </h1>
