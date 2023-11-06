@@ -31,3 +31,14 @@ export default {
     }
 }
 </script>
+
+<style scoped>
+  i {
+    padding: 10px;
+  }
+
+  i:hover {
+    background-color: rgb(156 163 175);
+    border-radius: 40%;
+  }
+</style>
