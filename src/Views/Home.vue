@@ -17,7 +17,6 @@
 <script>
 import Navbar from "../components/Global/Navbar.vue"
 import Banner from "../components/Home/Banner.vue"
-import Stack from "../components/Home/Stack.vue"
 import Biography from "../components/Home/Biography.vue"
 import Baseboard from "../components/Global/Baseboard.vue"
 import Skills from "../components/Home/Skills.vue"
@@ -28,7 +27,6 @@ export default {
   components: {
     Navbar,
     Banner,
-    Stack,
     Biography,
     Skills,
     Baseboard, 
