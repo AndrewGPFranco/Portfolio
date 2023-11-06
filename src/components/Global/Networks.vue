@@ -15,7 +15,7 @@
         </li>
         <li class="border-b border-gray-300">
           <a href="https://github.com/AndrewGPSilva" target="_blank">
-            <i class="pi pi-github" style="font-size: 2rem; color: black;"></i>
+            <i class="pi pi-github" style="font-size: 2rem; color: white;"></i>
           </a>
         </li>
       </div>
