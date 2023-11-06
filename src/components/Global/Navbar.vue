@@ -16,9 +16,9 @@
         <router-link to ="/projects" class="flex justify-center"><li class="text-purple-700 border-2 border-purple-500 text-xl px-5 py-1 text-center m-1 rounded-full w-auto font-bold">Projects</li></router-link>
       </ul>
     </div>
-    <div class="bg-black">
+    <!--<div class="bg-black">
       <Line />
-    </div>
+    </div>-->
   </nav>
 </template>
 
