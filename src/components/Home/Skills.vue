@@ -14,7 +14,7 @@
 </template>
 
 <script>
-  import language from "../../../language.json"
+  import language from "../../filesJson/language.json"
   export default {
     name: "Skills",
     data() {

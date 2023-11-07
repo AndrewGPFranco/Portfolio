@@ -21,8 +21,8 @@ import Search from "../components/Articles/Search.vue"
 import Category from "../components/Articles/Category.vue"
 import Card from "../components/Articles/Card.vue"
 import Baseboard from "../components/Articles/Baseboard.vue"
-import articles from "../../articles.json"
-import articlesfe from "../../articlesfe.json"
+import articles from "../filesJson/articles.json"
+import articlesfe from "../filesJson/articlesfe.json"
 export default {
   name: "Articles",
   components: {
