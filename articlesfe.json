@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Vue",
+    "description": "Vue é um framework JavaScript progressivo para a construção de interfaces de usuário. Ele é simples de aprender e usar, e pode ser facilmente integrado a outros frameworks e bibliotecas. Vue é muito versátil e pode ser usado para construir tanto aplicações web simples quanto complexas. Algumas empresas que usam Vue incluem: Google, Netflix, Airbnb, Alibaba, Xiaomi, Gitlab, Trivago, Plaid, 9GAG e Quero Education",
+    "author": "IA Bard",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZHuUunHF4QvVUeWMRFrx5xATtgRy53W5fwg&usqp=CAU"
+  },
+{
+    "id": 2,
+    "title": "React",
+    "description": "React é um framework JavaScript para a construção de interfaces de usuário. Ele é baseado em componentes e é conhecido por seu desempenho e escalabilidade. React é usado por grandes empresas como Facebook, Instagram, Netflix, Microsoft",
+    "author": "IA Bard",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW0fVJIVw4Z5sDoHB_yqIY_pUvpuLEdxP4Ng&usqp=CAU"
+},
+{
+    "id": 3,
+    "title": "Angular",
+    "description": "Angular é um framework JavaScript de código aberto para a construção de aplicações web. Ele é baseado em componentes e é conhecido por sua produtividade e compatibilidade com o TypeScript. Angular é usado por grandes empresas como: Google, Microsoft, Upwork, PayPal, eBay, Nike e Coca-Cola",
+    "author": "IA Bard",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqxf_HzuP7R5nkkBZ42EyeAjGrTDM3EX6n-g&usqp=CAU"
+}
+]

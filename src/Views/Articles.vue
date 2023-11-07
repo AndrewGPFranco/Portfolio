@@ -9,7 +9,7 @@
     </div>
     <h1 class="mt-5 font-bold text-start pl-5 text-2xl text-black mb-2">Frontend Frameworks</h1>
     <div class="overflow-x-auto flex pr-8 pl-2" id="frontend">
-      <Card v-for="article in articles" :key="article.id" :article="article" />
+      <Card v-for="articlefe in articlesfe" :key="articlefe.id" :article="articlefe" />
     </div>
     <Baseboard />
   </main>
@@ -21,7 +21,8 @@ import Search from "../components/Articles/Search.vue"
 import Category from "../components/Articles/Category.vue"
 import Card from "../components/Articles/Card.vue"
 import Baseboard from "../components/Articles/Baseboard.vue"
-  import articles from "../../articles.json"
+import articles from "../../articles.json"
+import articlesfe from "../../articlesfe.json"
 export default {
   name: "Articles",
   components: {
@@ -33,11 +34,13 @@ export default {
   },
   data() {
     return {
-      articles: []
+      articles: [],
+      articlesfe: []
     }
   },
   created() {
-    this.articles = articles
+    this.articles = articles,
+    this.articlesfe = articlesfe
   }
 }
 </script>
