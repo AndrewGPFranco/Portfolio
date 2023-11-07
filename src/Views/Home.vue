@@ -8,6 +8,9 @@
     <Stack />
     <Biography />
     <Skills />
+    <div class="mt-7">
+      <Ask />
+    </div>
   </main>
   <footer>
     <Baseboard />
@@ -22,6 +25,7 @@ import Baseboard from "../components/Global/Baseboard.vue"
 import Skills from "../components/Home/Skills.vue"
 import Description from "../components/Home/Description.vue"
 import Perfil from "../components/Home/Perfil.vue"
+import Ask from "../components/Home/Ask.vue"
 export default {
   name: "Home",
   components: {
@@ -31,7 +35,8 @@ export default {
     Skills,
     Baseboard, 
     Description,
-    Perfil
+    Perfil,
+    Ask
   }
 }
 </script>
