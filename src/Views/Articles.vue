@@ -3,7 +3,12 @@
     <Navbar />
     <Search />
     <Category />
-    <div class="overflow-x-auto flex pr-8 pl-2">
+    <h1 class="text-start pl-5 text-2xl font-bold text-black mb-2">Programming Languages</h1>
+    <div class="overflow-x-auto flex pr-8 pl-2" id="backend">
+      <Card v-for="article in articles" :key="article.id" :article="article" />
+    </div>
+    <h1 class="mt-5 font-bold text-start pl-5 text-2xl text-black mb-2">Frontend Frameworks</h1>
+    <div class="overflow-x-auto flex pr-8 pl-2" id="frontend">
       <Card v-for="article in articles" :key="article.id" :article="article" />
     </div>
     <Baseboard />
