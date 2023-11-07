@@ -8,9 +8,7 @@
     <Stack />
     <Biography />
     <Skills />
-    <div class="mt-7">
-      <Ask />
-    </div>
+    <Ask />
   </main>
   <footer>
     <Baseboard />
