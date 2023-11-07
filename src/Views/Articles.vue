@@ -1,5 +1,5 @@
 <template>
-  <main class="bg-blue-200">
+  <main class="bg-blue-200 pb-6">
     <Navbar />
     <Search />
     <Category />

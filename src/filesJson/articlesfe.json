@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Vue",
-    "description": "Vue is a progressive JavaScript framework for building user interfaces. It is easy to learn and use, and can be easily integrated with other frameworks and libraries. Vue is very versatile and can be used to build both simple and complex web applications.",
+    "description": "Vue.js is an open-source JavaScript framework for creating user interfaces (UI).  It is component-based, which makes it easy to create and maintain complex interfaces.  Vue.js is a great choice for developers looking for a quick and easy way to create high-quality user interfaces.  It is easy to learn and use, and has a large community of developers who create modules and libraries to extend its functionality.",
     "author": "IA Bard",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZHuUunHF4QvVUeWMRFrx5xATtgRy53W5fwg&usqp=CAU"
   },

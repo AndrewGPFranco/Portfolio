@@ -40,5 +40,12 @@
     "description": "The C++ language is a compiled, imperative, object-oriented, and general-purpose programming language. It is known for its efficiency and performance, as well as its wide range of libraries and tools.",
     "author": "IA Bard",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaamG0ehE2XBRA2SRx8d2bvS2w9fx3GktDIA&usqp=CAU"
+  },
+  {
+    "id": 7,
+    "title": "Node.js",
+    "description": "Node.js is an open source computing platform based on Google's V8 JavaScript runtime.  It is used to create web applications, backend applications, mobile applications, Internet of Things (IoT) applications, and much more.  Node.js is an event-driven and asynchronous programming language, which means it is ideal for handling large volumes of data and events.  It is also very resource-efficient, which makes it a good choice for applications that need to run on resource-constrained devices.",
+    "author": "IA Bard",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn1SK_GMlmKNTxSMNFNXOOxvAOqe9y1qR01A&usqp=CAU"
   }
 ]
