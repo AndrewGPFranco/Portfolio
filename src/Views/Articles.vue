@@ -4,14 +4,14 @@
     <Search />
     <Category />
     <h1 class="text-start pl-5 text-2xl font-bold text-black mb-2">Programming Languages</h1>
-    <div class="overflow-x-auto flex pr-8 pl-2" id="backend">
+    <div class="overflow-x-auto flex pr-8 pl-2 overflow-y-hidden" id="backend">
       <Card v-for="article in articles" :key="article.id" :article="article" />
     </div>
     <h1 class="mt-5 font-bold text-start pl-5 text-2xl text-black mb-2">Frontend Frameworks</h1>
-    <div class="overflow-x-auto flex pr-8 pl-2" id="frontend">
+    <div class="overflow-x-auto flex pr-8 pl-2 overflow-y-hidden" id="frontend">
       <Card v-for="articlefe in articlesfe" :key="articlefe.id" :article="articlefe" />
     </div>
-    <Baseboard />
+    <!--<Baseboard />-->
   </main>
 </template>
 
