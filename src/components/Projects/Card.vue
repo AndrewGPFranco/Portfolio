@@ -1,10 +1,15 @@
 <template>
   <section class="flex justify-center flex-col">
-    <div class="text-center p-5 border border-gray-100 m-2 rounded-full" v-for='aula in aulas' :key="aula.id">
+    <div v-if="aulas" class="text-center p-5 border border-gray-100 m-2 rounded-full" v-for='aula in aulas' :key="aula.id">
       <img class="flex w-2/4 m-auto justify-center" :src="aula.image" alt="Imagem do Projeto" />
       <h1 class="text-center mt-3">{{ aula.title }}</h1>
       <p class="text-gray-300">{{ aula.description }}</p>
       <p class="text-gray-300">Category: <span class="text-orange-500">{{ aula.category }}</span></p>
+    </div>
+    <div v-if="!aulas">
+      <h1>
+        Essa página utiliza de uma Api própria porém não hospedada, mais pra frente planejo hospedar mas enquanto isso, pode ver o resultado em meu canal do tiktok @Devgps
+      </h1>
     </div>
   </section>
 </template>
