@@ -6,8 +6,8 @@
       <p class="text-gray-300">{{ aula.description }}</p>
       <p class="text-gray-300">Category: <span class="text-orange-500">{{ aula.category }}</span></p>
     </div>
-    <div v-if="!aulas">
-      <h1>
+    <div v-if="aulas.length === 0">
+      <h1 class="text-white">
         Essa página utiliza de uma Api própria porém não hospedada, mais pra frente planejo hospedar mas enquanto isso, pode ver o resultado em meu canal do tiktok @Devgps
       </h1>
     </div>
