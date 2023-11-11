@@ -25,7 +25,7 @@
       }
     },
     created() {
-      axios.get('http://127.0.0.1:8000/api/aul')
+      axios.get('http://127.0.0.1:8000/api/aulas')
         .then((response) => {
           console.log(response)
           this.aulas = response.data
