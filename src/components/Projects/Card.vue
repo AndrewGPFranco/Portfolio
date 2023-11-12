@@ -1,8 +1,8 @@
 <template>
   <section class="flex justify-center flex-col">
-    <div v-if="aulas" class="text-center p-5 border border-gray-100 m-2 rounded-full" v-for='aula in aulas' :key="aula.id">
-      <img class="flex w-2/4 m-auto justify-center" :src="aula.image" alt="Imagem do Projeto" />
-      <h1 class="text-center text-white mt-3">{{ aula.title }}</h1>
+    <div v-if="aulas" class="text-center p-5 border border-gray-100 m-2 rounded-2xl" v-for='aula in aulas' :key="aula.id">
+      <a :href="aula.link" target="_blank"><img class="flex w-2/4 m-auto justify-center" :src="aula.image" alt="Imagem do Projeto" /></a>
+      <h1 class="text-center text-cyan-400 mt-3">{{ aula.title }}</h1>
       <p class="text-gray-300">{{ aula.description }}</p>
       <p class="text-gray-300">Category: <span class="text-orange-500">{{ aula.category }}</span></p>
     </div>
