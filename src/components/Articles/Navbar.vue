@@ -9,7 +9,7 @@
       <img class="h-28 w-28 border border-black rounded-full" src="../../assets/luffy.jpeg" alt="logo" />
       <div class="pl-11 flex flex-col justify-center text-end items-center">
         <h1 class="text-blue-900"><span class="text-blue-400">Dev:</span> Andrew Silva</h1>
-        <h2 class="text-blue-900">Developer Back-End</h2>
+        <h2 class="text-blue-900">Fullstack Developer</h2>
         <h2 class="text-blue-900">Country: Brasil</h2>
       </div>
     </div>
