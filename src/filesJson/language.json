@@ -76,7 +76,27 @@
   },
   {
     "id": 16,
+    "nome": "Golang",
+    "imagem": "https://i.ibb.co/8rHSx8L/golang.png"
+  },
+  {
+    "id": 17,
     "nome": "MySql",
     "imagem": "https://i.ibb.co/wyzL97g/mysql.png"
-  }
+  },
+{
+    "id": 18,
+    "nome": "Postgree",
+    "imagem": "https://i.ibb.co/wg7JXwB/postgree.png"
+  },
+{
+    "id": 19,
+    "nome": "Git",
+    "imagem": "https://i.ibb.co/Bf9FSWj/git.png"
+  },
+{
+    "id": 20,
+    "nome": "Docker",
+    "imagem": "https://i.ibb.co/9HM4vQ9/docker.png"
+}
 ]
