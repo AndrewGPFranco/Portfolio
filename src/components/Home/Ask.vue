@@ -16,7 +16,7 @@
     </div>
     <div v-if="ativado" class="p-4 border border-black" id="box">
       <p class="text-white">
-        On a daily basis I tend to use laravel, Tailwind, vue js a lot.  In addition to these, I've been studying a lot of Spring from Java and .NET from Csharp!
+        In everyday life I tend to use Spring and Angular a lot.  In addition to these, I usually use Laravel, Vue and Tailwind!
       </p>
     </div>
   </section>
