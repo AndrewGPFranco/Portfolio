@@ -2,8 +2,9 @@
   {
     "id": 1,
     "title": "Meet Me",
-    "link": "",
-    "image": "https://i.ibb.co/VN9QZ58/meconheca.png"
+    "link": "https://me-conheca.vercel.app/",
+    "image": "https://i.ibb.co/VN9QZ58/meconheca.png",
+    "technology": ["https://i.ibb.co/9t6YkBF/react.png", "https://i.ibb.co/WnqxL8d/html.png", "https://i.ibb.co/bFXpr1R/css.png"]
   },
   {
     "id": 2,
