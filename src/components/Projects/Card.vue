@@ -1,6 +1,6 @@
 <template>
   <section class="flex justify-center flex-col">
-    <div v-for="project in projects" :key="project.id" class="flex flex-col text-black bg-transparent text-center p-2 rounded-2xl m-1">
+    <div id="card" v-for="project in projects" :key="project.id" class="flex flex-col text-black bg-transparent text-center p-2 rounded-2xl m-1">
       <img :src="project.image" alt="Foto do Projeto" class="rounded-2xl" />
       <h1 class="mt-2 underline font-bold text-white text-xl">{{ project.title }}</h1>
       <div class="flex justify-center">
