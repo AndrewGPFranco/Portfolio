@@ -2,13 +2,8 @@
   <header>
     <Navbar />
   </header>
-  <main class="py-4 bg-black border-t-2 border-gray-600">
-    <h1 class="text-orange-500 text-3xl text-center pt-5 font-bold">
-      My Projects
-    </h1>
-    <div class="p-4 flex overflow-x-auto">
-      <Card />
-    </div>
+  <main class="py-4 px-3 bg-black">
+    <Card />
   </main>
   <footer>
     <Baseboard />
