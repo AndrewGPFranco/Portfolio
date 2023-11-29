@@ -26,77 +26,67 @@
   },
   {
     "id": 6,
-    "nome": "CSharp",
-    "imagem": "https://i.ibb.co/q0WvKG3/csharp.png"
-  },
-  {
-    "id": 7,
-    "nome": ".NET",
-    "imagem": "https://i.ibb.co/H7RhJhH/dotnet.png"
-  },
-  {
-    "id": 8,
     "nome": "Javascript",
     "imagem": "https://i.ibb.co/k2YWfNf/javascript.png"
   },
   {
-    "id": 9,
+    "id": 7,
     "nome": "Typescript",
     "imagem": "https://i.ibb.co/yYyxVqh/typescript.png"
   },
   {
-    "id": 10,
+    "id": 8,
     "nome": "Vue",
     "imagem": "https://i.ibb.co/HXq4tBM/vue.png"
   },
   {
-    "id": 11,
+    "id": 9,
     "nome": "React",
     "imagem": "https://i.ibb.co/9t6YkBF/react.png"
   },
   {
-    "id": 12,
+    "id": 10,
     "nome": "HTML",
     "imagem": "https://i.ibb.co/WnqxL8d/html.png"
   },
   {
-    "id": 13,
+    "id": 11,
     "nome": "CSS",
     "imagem": "https://i.ibb.co/bFXpr1R/css.png"
   },
   {
-    "id": 14,
+    "id": 12,
     "nome": "Tailwind",
     "imagem": "https://i.ibb.co/Yht90fY/tailwind.png"
   },
   {
-    "id": 15,
+    "id": 13,
     "nome": "Bootstrap",
     "imagem": "https://i.ibb.co/nCZj6xt/bootstrap.png"
   },
   {
-    "id": 16,
+    "id": 14,
     "nome": "Golang",
     "imagem": "https://i.ibb.co/8rHSx8L/golang.png"
   },
   {
-    "id": 17,
+    "id": 15,
     "nome": "MySql",
     "imagem": "https://i.ibb.co/wyzL97g/mysql.png"
   },
-{
-    "id": 18,
+  {
+    "id": 16,
     "nome": "PostgreSQL",
     "imagem": "https://i.ibb.co/wg7JXwB/postgree.png"
   },
-{
-    "id": 19,
+  {
+    "id": 17,
     "nome": "Git",
     "imagem": "https://i.ibb.co/Bf9FSWj/git.png"
   },
-{
-    "id": 20,
+  {
+    "id": 18,
     "nome": "Docker",
     "imagem": "https://i.ibb.co/9HM4vQ9/docker.png"
-}
+  }
 ]
