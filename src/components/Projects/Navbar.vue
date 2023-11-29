@@ -25,4 +25,8 @@ export default {
     background-color: rgb(61, 61, 61);
     border-radius: 40%;
   }
+
+  section {
+    border-bottom: 1px solid #333;
+  }
 </style>
