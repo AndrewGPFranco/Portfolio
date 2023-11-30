@@ -2,8 +2,8 @@
   <section class="px-7 bg-black py-4">
     <div class="flex justify-between items-center">
       <router-link to="/"><i class="pi pi-arrow-left" style="font-size: 1.3rem; color: white; font-weight: bold;"></i></router-link>
-      <button>
-        <img class="w-10 h-10 rounded-full border border-black" src="../../assets/luffy.jpeg" alt="Imagem de Perfil" />
+      <button><router-link to="/user">
+        <img class="w-10 h-10 rounded-full border border-black" src="../../assets/luffy.jpeg" alt="Imagem de Perfil" /></router-link>
       </button>
     </div>
   </section>
