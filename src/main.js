@@ -9,6 +9,7 @@ import './assets/main.css'
 import Home from './Views/Home.vue'
 import Projects from './Views/Projects.vue'
 import Articles from './Views/Articles.vue'
+import Perfil from './Views/Perfil.vue'
 
 const router = createRouter({ 
   history: createWebHistory(),
@@ -24,6 +25,10 @@ const router = createRouter({
     {
       path: "/articles",
       component: Articles
+    },
+    {
+      path: "/user",
+      component: Perfil
     }
   ]
 })
