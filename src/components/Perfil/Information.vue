@@ -12,7 +12,7 @@
         +1 <br> EXP
       </h1>
       <div class="flex justify-center align-items p-3 text-white bg-gray-900 rounded-full w-20 h-20 ">
-        <i class="pi pi-youtube text-red-500 text-4xl mt-1"></i>
+        <i class="pi pi-youtube text-red-600 text-4xl mt-1"></i>
       </div>
     </div>
     <div class="flex text-center justify-center m-2">
