@@ -1,7 +1,7 @@
 <template>
   <section>
-    <!--<img src="../../assets/banner-perfil.jpg" alt="Banner do Site" />-->
-    <div></div>
+    <img src="../../assets/banner-perfil.jpg" alt="Banner do Site" />
+    <!--<div></div>-->
   </section>
 </template>
 

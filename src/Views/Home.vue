@@ -9,6 +9,7 @@
     <Biography />
     <Skills />
     <Ask />
+    <Formulario/>
   </main>
   <footer>
     <Baseboard />
@@ -24,6 +25,7 @@ import Skills from "../components/Home/Skills.vue"
 import Description from "../components/Home/Description.vue"
 import Perfil from "../components/Home/Perfil.vue"
 import Ask from "../components/Home/Ask.vue"
+import Formulario from "../components/Home/Formulario.vue"
 export default {
   name: "Home",
   components: {
@@ -34,7 +36,8 @@ export default {
     Baseboard, 
     Description,
     Perfil,
-    Ask
+    Ask,
+    Formulario
   }
 }
 </script>
