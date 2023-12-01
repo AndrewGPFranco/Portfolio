@@ -20,25 +20,31 @@
 </template>
 
 <script>
-  export default {
-    name: "Formulario"
-  }
+export default {
+  name: "Formulario"
+}
 </script>
 
 <style scoped>
-  #container {
-    background-image: url("../../assets/backgroundForm.jpg");
-    background-size: cover;
-  }
+#container {
+  background-image: url("../../assets/backgroundForm.jpg");
+  background-size: cover;
+}
 
-  input, textarea {
-    border: 1px solid #333;
-    border-radius: 10px;
-    padding: 10px;
-    color: black;
-  }
+input,
+textarea {
+  border: 1px solid #333;
+  border-radius: 10px;
+  padding: 10px;
+  color: black;
+}
 
-  * {
-    font-family: monospace;
-  }
+* {
+  font-family: monospace;
+}
+
+button:hover {
+  color: white;
+  background-color: blueviolet;
+}
 </style>

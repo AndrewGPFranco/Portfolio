@@ -12,48 +12,50 @@
         +1 <br> EXP
       </h1>
       <div class="flex justify-center align-items p-3 text-white bg-gray-900 rounded-full w-20 h-20 ">
-        <a href="https://www.youtube.com/channel/UC7L-jcONEz0AG56nfSQiXvA" target="_blank"><i class="pi pi-youtube text-red-600 text-4xl mt-2"></i></a>
+        <a href="https://www.youtube.com/channel/UC7L-jcONEz0AG56nfSQiXvA" target="_blank"><i
+            class="pi pi-youtube text-red-600 text-4xl mt-2"></i></a>
       </div>
     </div>
     <div class="flex text-center justify-center m-2">
-      <button class="bg-gray-200 px-5 py-3 font-bold rounded-xl w-4/5 "><router-link to="/">REDIRECT BACK TO HOME</router-link></button>
+      <button class="bg-gray-200 px-5 py-3 font-bold rounded-xl w-4/5 "><router-link to="/">REDIRECT BACK TO
+          HOME</router-link></button>
     </div>
   </section>
 </template>
 
 <script>
-  export default {
-    name: "Information"
-  }
+export default {
+  name: "Information"
+}
 </script>
 
 <style scoped>
-  section {
-    background-color: black;
+section {
+  background-color: black;
+}
+
+#info {
+  font-family: monospace;
+}
+
+button:hover {
+  background-color: purple;
+  color: white;
+}
+
+i:hover {
+  color: red;
+}
+
+h1:hover {
+  color: green;
+}
+
+@media only screen and (min-width: 720px) {
+  button {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 1.3rem;
   }
-
-  #info {
-    font-family: monospace;
-  }
-
-  button:hover {
-    background-color: purple;
-    color: white;
-  }
-
-  @media only screen and (min-width: 720px) {
-    button {
-      width: 50%;
-      margin: 0 auto;
-      font-size: 1.3rem;
-    }
-
-    i:hover {
-      color: red;
-    }
-
-    h1:hover {
-      color: green;
-    }
-  }
+}
 </style>
