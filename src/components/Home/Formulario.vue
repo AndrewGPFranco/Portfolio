@@ -35,6 +35,7 @@
     border: 1px solid #333;
     border-radius: 10px;
     padding: 10px;
+    color: black;
   }
 
   * {
