@@ -14,13 +14,6 @@
     "technology": ["https://i.ibb.co/WnqxL8d/html.png", "https://i.ibb.co/bFXpr1R/css.png", "https://i.ibb.co/k2YWfNf/javascript.png"]
   },
   {
-    "id": 3,
-    "title": "IOPE",
-    "link": "https://projeto-empresarial-iope.vercel.app/",
-    "image": "https://i.ibb.co/PQLnywc/iope.jpg",
-    "technology": ["https://i.ibb.co/WnqxL8d/html.png", "https://i.ibb.co/bFXpr1R/css.png"]
-  },
-  {
     "id": 4,
     "title": "Space Animes",
     "link": "https://space-animes.vercel.app/",
