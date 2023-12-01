@@ -1,9 +1,7 @@
 <template>
   <section>
     <!--<img src="../../assets/banner-perfil.jpg" alt="Banner do Site" />-->
-    <div>
-      
-    </div>
+    <div></div>
   </section>
 </template>
 
@@ -21,6 +19,9 @@
   }
 
   @media only screen and (min-width: 720px) {
-    background-image: url("../../assets/banner.jpg");
+    div {
+      height: 300px;
+      background-image: url("../../assets/banner.jpg");
+    }
   }
 </style>

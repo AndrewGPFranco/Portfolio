@@ -36,16 +36,24 @@
     font-family: monospace;
   }
 
+  button:hover {
+    background-color: purple;
+    color: white;
+  }
+
   @media only screen and (min-width: 720px) {
     button {
       width: 50%;
       margin: 0 auto;
       font-size: 1.3rem;
     }
-    
-    button:hover {
-      background-color: purple;
-      color: white;
+
+    i:hover {
+      color: red;
+    }
+
+    h1:hover {
+      color: green;
     }
   }
 </style>
