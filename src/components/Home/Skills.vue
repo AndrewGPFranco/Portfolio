@@ -33,8 +33,9 @@
   }
 
   #iconLanguage:hover {
-    background-color: gray;
-    box-shadow: 1px 1px 3px black;
+    background-color: rgb(173, 173, 173);
+    box-shadow: 0px 0px 0px black;
+    border: 2px solid black;
   }
 
   @media only screen and (min-width: 720px) {
