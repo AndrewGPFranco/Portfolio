@@ -42,4 +42,11 @@
   #box {
     background-color: rgb(45,45,45);
   }
+
+  @media only screen and (min-width: 720px) {
+    #box {
+      width: 50%;
+      margin: 0 auto;
+    }
+  }
 </style>

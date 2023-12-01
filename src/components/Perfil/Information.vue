@@ -12,7 +12,7 @@
         +1 <br> EXP
       </h1>
       <div class="flex justify-center align-items p-3 text-white bg-gray-900 rounded-full w-20 h-20 ">
-        <i class="pi pi-youtube text-red-600 text-4xl mt-1"></i>
+        <a href="https://www.youtube.com/channel/UC7L-jcONEz0AG56nfSQiXvA" target="_blank"><i class="pi pi-youtube text-red-600 text-4xl mt-2"></i></a>
       </div>
     </div>
     <div class="flex text-center justify-center m-2">
@@ -34,5 +34,18 @@
 
   #info {
     font-family: monospace;
+  }
+
+  @media only screen and (min-width: 720px) {
+    button {
+      width: 50%;
+      margin: 0 auto;
+      font-size: 1.3rem;
+    }
+    
+    button:hover {
+      background-color: purple;
+      color: white;
+    }
   }
 </style>

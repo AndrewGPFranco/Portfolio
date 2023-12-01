@@ -67,7 +67,7 @@
   {
     "id": 14,
     "nome": "Golang",
-    "imagem": "https://i.ibb.co/8rHSx8L/golang.png"
+    "imagem": "https://i.ibb.co/RpmyqN4/go.png"
   },
   {
     "id": 15,
@@ -77,16 +77,16 @@
   {
     "id": 16,
     "nome": "PostgreSQL",
-    "imagem": "https://i.ibb.co/wg7JXwB/postgree.png"
+    "imagem": "https://i.ibb.co/K0qpkZZ/Design-sem-nome.png"
   },
   {
     "id": 17,
     "nome": "Git",
-    "imagem": "https://i.ibb.co/Bf9FSWj/git.png"
+    "imagem": "https://i.ibb.co/JQvJF0v/Design-sem-nome-1.png"
   },
   {
     "id": 18,
     "nome": "Docker",
-    "imagem": "https://i.ibb.co/9HM4vQ9/docker.png"
+    "imagem": "https://i.ibb.co/YDhkQp5/Design-sem-nome-2.png"
   }
 ]
