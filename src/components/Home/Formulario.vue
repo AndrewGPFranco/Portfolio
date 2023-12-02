@@ -2,7 +2,7 @@
   <section class="flex flex-col p-20 gap-1" id="container">
     <h1 class="text-blacl text-4xl text-center font-bold">Contact</h1>
     <form>
-      <div v-if="messageActive" class="text-center p-2 bg-green-500 font-bold text-lg rounded-lg m-2">
+      <div v-if="messageActive" class="text-center p-2 bg-green-500 font-bold text-sm rounded-lg m-2">
         <h1>Your message has been sent successfully</h1>
       </div>
       <div class="flex flex-col text-white gap-1">
