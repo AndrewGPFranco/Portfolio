@@ -4,78 +4,122 @@
     "title": "Meet Me",
     "link": "https://me-conheca.vercel.app/",
     "image": "https://i.ibb.co/VN9QZ58/meconheca.png",
-    "technology": ["https://i.ibb.co/9t6YkBF/react.png", "https://i.ibb.co/WnqxL8d/html.png", "https://i.ibb.co/bFXpr1R/css.png"]
+    "technology": [
+      "https://i.ibb.co/9t6YkBF/react.png",
+      "https://i.ibb.co/WnqxL8d/html.png",
+      "https://i.ibb.co/bFXpr1R/css.png"
+    ]
   },
   {
     "id": 2,
     "title": "Currency Converter",
     "link": "https://banco-conversoes.vercel.app/",
     "image": "https://i.ibb.co/6HmFMLK/apibank.png",
-    "technology": ["https://i.ibb.co/WnqxL8d/html.png", "https://i.ibb.co/bFXpr1R/css.png", "https://i.ibb.co/k2YWfNf/javascript.png"]
+    "technology": [
+      "https://i.ibb.co/WnqxL8d/html.png",
+      "https://i.ibb.co/bFXpr1R/css.png",
+      "https://i.ibb.co/k2YWfNf/javascript.png"
+    ]
   },
   {
     "id": 4,
     "title": "Space Animes",
     "link": "https://space-animes.vercel.app/",
     "image": "https://i.ibb.co/k0QTNpG/space-animes.png",
-    "technology": ["https://i.ibb.co/9t6YkBF/react.png", "https://i.ibb.co/WnqxL8d/html.png", "https://i.ibb.co/bFXpr1R/css.png"]
+    "technology": [
+      "https://i.ibb.co/9t6YkBF/react.png",
+      "https://i.ibb.co/WnqxL8d/html.png",
+      "https://i.ibb.co/bFXpr1R/css.png"
+    ]
   },
   {
     "id": 5,
     "title": "Crew",
     "link": "https://tripula-one-piece.vercel.app/",
     "image": "https://i.ibb.co/QFQYVVx/organo.png",
-    "technology": ["https://i.ibb.co/9t6YkBF/react.png", "https://i.ibb.co/WnqxL8d/html.png", "https://i.ibb.co/bFXpr1R/css.png"]
+    "technology": [
+      "https://i.ibb.co/9t6YkBF/react.png",
+      "https://i.ibb.co/WnqxL8d/html.png",
+      "https://i.ibb.co/bFXpr1R/css.png"
+    ]
   },
   {
     "id": 6,
     "title": "Place TV",
     "link": "https://placetv.vercel.app/",
     "image": "https://i.ibb.co/Z20VCgr/placereact.png",
-    "technology": ["https://i.ibb.co/9t6YkBF/react.png", "https://i.ibb.co/WnqxL8d/html.png", "https://i.ibb.co/bFXpr1R/css.png"]
+    "technology": [
+      "https://i.ibb.co/9t6YkBF/react.png",
+      "https://i.ibb.co/WnqxL8d/html.png",
+      "https://i.ibb.co/bFXpr1R/css.png"
+    ]
   },
   {
     "id": 7,
     "title": "React Portfolio",
     "link": "https://react-port-liart.vercel.app/",
     "image": "https://i.ibb.co/KN4V8Ns/portreact.jpg",
-    "technology": ["https://i.ibb.co/9t6YkBF/react.png", "https://i.ibb.co/WnqxL8d/html.png", "https://i.ibb.co/bFXpr1R/css.png"]
+    "technology": [
+      "https://i.ibb.co/9t6YkBF/react.png",
+      "https://i.ibb.co/WnqxL8d/html.png",
+      "https://i.ibb.co/bFXpr1R/css.png"
+    ]
   },
   {
     "id": 8,
     "title": "First Portfolio",
     "link": "https://presentation-bice.vercel.app/",
     "image": "https://i.ibb.co/DWZSVty/presentation.jpg",
-    "technology": ["https://i.ibb.co/WnqxL8d/html.png", "https://i.ibb.co/bFXpr1R/css.png", "https://i.ibb.co/k2YWfNf/javascript.png"]
+    "technology": [
+      "https://i.ibb.co/WnqxL8d/html.png",
+      "https://i.ibb.co/bFXpr1R/css.png",
+      "https://i.ibb.co/k2YWfNf/javascript.png"
+    ]
   },
   {
     "id": 9,
     "title": "Blog",
     "link": "https://blog-vue-replit.vercel.app/",
-    "image": "https://i.ibb.co/hRrJMvT/blog.jpg",
-    "technology": ["https://i.ibb.co/HXq4tBM/vue.png", "https://i.ibb.co/WnqxL8d/html.png", "https://i.ibb.co/bFXpr1R/css.png"]
+    "image": "https://i.ibb.co/KDTJwsT/Design-sem-nome-1.jpg",
+    "technology": [
+      "https://i.ibb.co/HXq4tBM/vue.png",
+      "https://i.ibb.co/WnqxL8d/html.png",
+      "https://i.ibb.co/bFXpr1R/css.png"
+    ]
   },
   {
     "id": 10,
     "title": "Store",
     "link": "https://store-gps.vercel.app/",
     "image": "https://i.ibb.co/xhVcxtq/store.jpg",
-    "technology": ["https://i.ibb.co/HXq4tBM/vue.png", "https://i.ibb.co/WnqxL8d/html.png", "https://i.ibb.co/bFXpr1R/css.png"]
+    "technology": [
+      "https://i.ibb.co/HXq4tBM/vue.png",
+      "https://i.ibb.co/WnqxL8d/html.png",
+      "https://i.ibb.co/bFXpr1R/css.png"
+    ]
   },
   {
     "id": 11,
     "title": "Vue Portfolio",
     "link": "https://portfvue.vercel.app/",
-    "image": "https://i.ibb.co/2Fhj6QC/portvue.jpg",
-    "technology": ["https://i.ibb.co/HXq4tBM/vue.png", "https://i.ibb.co/WnqxL8d/html.png", "https://i.ibb.co/bFXpr1R/css.png"]
+    "image": "https://i.ibb.co/hFsz9QB/Design-sem-nome.jpg",
+    "technology": [
+      "https://i.ibb.co/HXq4tBM/vue.png",
+      "https://i.ibb.co/WnqxL8d/html.png",
+      "https://i.ibb.co/bFXpr1R/css.png"
+    ]
   },
   {
     "id": 12,
     "title": "APIs",
     "link": "https://github.com/andrewgpsilva",
     "image": "https://i.ibb.co/rpgGQPX/api.jpg",
-    "technology": [ "https://i.ibb.co/RpmyqN4/go.png",
-"https://i.ibb.co/cC7pdTY/php.png", "https://i.ibb.co/drrxzN9/laravel.png", "https://i.ibb.co/tYgKkz4/java.png", "https://i.ibb.co/f27wdz5/spring.png"
+    "technology": [
+      "https://i.ibb.co/RpmyqN4/go.png",
+      "https://i.ibb.co/cC7pdTY/php.png",
+      "https://i.ibb.co/drrxzN9/laravel.png",
+      "https://i.ibb.co/tYgKkz4/java.png",
+      "https://i.ibb.co/f27wdz5/spring.png"
     ]
   }
 ]
