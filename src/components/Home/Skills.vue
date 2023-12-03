@@ -1,5 +1,5 @@
 <template>
-  <section class="p-5 border rounded-2xl bg-white -mt-60 mx-7 border-gray-200 mb-4">
+  <section class="p-5 border rounded-2xl bg-white -mt-56 mx-7 border-gray-200 mb-4">
     <h1 class="text-black text-center font-bold text-4xl">My Hard Skills</h1>
     <div id="containerImage" class="flex flex-wrap justify-center py-5 mt-1">
         <img

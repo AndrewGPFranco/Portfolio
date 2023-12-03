@@ -9,7 +9,7 @@
         +20 <br> <i class="pi pi-book"></i>
       </h1>
       <h1 class="align-items p-3 text-center text-white bg-gray-900 rounded-full w-20 h-20">
-        +1 <br> EXP
+        +1y <br> EXP
       </h1>
       <div class="flex justify-center align-items p-3 text-white bg-gray-900 rounded-full w-20 h-20 ">
         <a href="https://www.youtube.com/channel/UC7L-jcONEz0AG56nfSQiXvA" target="_blank"><i
