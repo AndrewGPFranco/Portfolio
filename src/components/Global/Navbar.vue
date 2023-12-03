@@ -11,15 +11,23 @@
     </div>
     <div v-show="ativado">
       <ul class="text-black flex flex-col text-center bg-white p-5">
-        <router-link to ="/" class="flex justify-center"><li class="text-purple-700 border-2 border-purple-500 px-5 py-1 text-center text-xl m-1 rounded-full w-auto font-bold">Home</li></router-link>
-        <!--<router-link to ="/user" class="flex justify-center"><li class="text-purple-700 border-2 border-purple-500 text-xl px-5 py-1 text-center m-1 rounded-full w-auto font-bold">Perfil</li></router-link>-->
-        <router-link to ="/articles" class="flex justify-center"><li class=" text-purple-700 border-2 border-purple-500 px-5 py-1 text-center m-1 text-xl rounded-full w-auto font-bold">Articles</li></router-link>
-        <router-link to ="/projects" class="flex justify-center"><li class="text-purple-700 border-2 border-purple-500 text-xl px-5 py-1 text-center m-1 rounded-full w-auto font-bold">Projects</li></router-link>
+        <router-link to="/" class="flex justify-center">
+          <li
+            class="text-purple-700 border-2 border-purple-500 px-5 py-1 text-center text-xl m-1 rounded-full w-auto font-bold">
+            Home</li>
+        </router-link>
+        <router-link to="/articles" class="flex justify-center">
+          <li
+            class=" text-purple-700 border-2 border-purple-500 px-5 py-1 text-center m-1 text-xl rounded-full w-auto font-bold">
+            Articles</li>
+        </router-link>
+        <router-link to="/projects" class="flex justify-center">
+          <li
+            class="text-purple-700 border-2 border-purple-500 text-xl px-5 py-1 text-center m-1 rounded-full w-auto font-bold">
+            Projects</li>
+        </router-link>
       </ul>
     </div>
-    <!--<div class="bg-black">
-      <Line />
-    </div>-->
   </nav>
 </template>
 
@@ -31,7 +39,7 @@ export default {
   components: {
     Line
   },
-    data() {
+  data() {
     return {
       ativado: false
     };
@@ -47,3 +55,19 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+@media only screen and (min-width: 720px) {
+
+  li:hover {
+    border: 2px solid black;
+    color: black;
+  }
+
+  ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+} 
+</style>

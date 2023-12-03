@@ -44,10 +44,14 @@
       height: 100px;
     }
 
+    section {
+      padding: 50px;
+    }
+
     #containerImage {
       width: 100%;
       gap: 10px;
-      padding: 10px;
+      padding: 50px;
     }
   }
 </style>

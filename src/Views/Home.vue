@@ -9,7 +9,7 @@
     <Biography />
     <Skills />
     <Ask />
-    <Formulario/>
+    <Formulario />
   </main>
   <footer>
     <Baseboard />
@@ -33,7 +33,7 @@ export default {
     Banner,
     Biography,
     Skills,
-    Baseboard, 
+    Baseboard,
     Description,
     Perfil,
     Ask,

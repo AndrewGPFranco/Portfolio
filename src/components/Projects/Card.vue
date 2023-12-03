@@ -1,8 +1,8 @@
 <template>
-  <section class="flex justify-center flex-col">
+  <section id="container" class="flex justify-center flex-col">
     <div id="card" v-for="project in projects" :key="project.id"
       class="flex flex-col text-black bg-transparent text-center p-2 rounded-2xl m-1">
-      <img :src="project.image" alt="Foto do Projeto" class="rounded-2xl" />
+      <img id="imageProject" :src="project.image" alt="Foto do Projeto" class="rounded-2xl" />
       <h1 class="mt-2 underline font-bold text-white text-xl">{{ project.title }}</h1>
       <div class="flex justify-center">
         <img v-for="tech in project.technology" :key="tech" class="cursor-pointer flex rounded-full w-16 h-16" :src="tech"
@@ -38,5 +38,22 @@ export default {
 a:hover {
   background-color: purple;
   color: white;
+}
+
+@media only screen and (min-width: 720px) {
+  #imageProject {
+    height: 200px;
+  }
+  
+  #card {
+    width: 400px;
+  }
+
+  #container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5px;
+  }
 }
 </style>

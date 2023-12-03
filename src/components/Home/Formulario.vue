@@ -78,4 +78,16 @@ button:hover {
   color: white;
   background-color: blueviolet;
 }
+
+@media only screen and (min-width: 720px) {
+  #container {
+    background-size: cover;
+  }
+
+  form {
+    width: 60%;
+    margin: 0 auto;
+  }
+}
+
 </style>

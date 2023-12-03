@@ -11,3 +11,9 @@
     name: "Banner"
   }
 </script>
+
+<style scoped>
+@media only screen and (min-width: 720px) {
+  
+}
+</style>
