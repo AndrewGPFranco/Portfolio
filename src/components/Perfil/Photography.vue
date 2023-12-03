@@ -1,6 +1,6 @@
 <template>
   <section class="bg-black flex justify-center">
-    <img class="-mt-10 w-40 h-40 rounded-full" src="../../assets/user.jpg" alt="User Photography" />
+    <img class="-mt-10 w-36 h-44 rounded-full border-2 border-green-500" src="../../assets/user.jpg" alt="User Photography" />
   </section>
 </template>
 

@@ -5,10 +5,10 @@
       <h3 id="info" class="text-xl text-gray-200">Fullstack Developer</h3>
     </div>
     <div class="flex justify-center gap-4 p-3">
-      <h1 class="w-20 h-20 align-items p-3 text-center text-white bg-gray-900 rounded-full">
+      <h1 class="w-20 h-20 align-items cursor-pointer p-3 text-center text-white bg-gray-900 rounded-full">
         +20 <br> <i class="pi pi-book"></i>
       </h1>
-      <h1 class="align-items p-3 text-center text-white bg-gray-900 rounded-full w-20 h-20">
+      <h1 class="align-items p-3 text-center cursor-pointer text-white bg-gray-900 rounded-full w-20 h-20">
         +1y <br> EXP
       </h1>
       <div class="flex justify-center align-items p-3 text-white bg-gray-900 rounded-full w-20 h-20 ">
