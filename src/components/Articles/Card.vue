@@ -6,9 +6,9 @@
         <h1 class="font-bold text-xl pb-1">{{ article.title }}</h1>
         <p v-if="!readmore">{{ article.description.substring(0,170) + "..."}}</p>
         <p v-if="readmore">{{ article.description }}</p>
-        <button @click="activeRead" class="mt-2 text-center rounded-xl p-2 bg-blue-500 text-black font-bold">
-          Read More
-        </button>
+<button @click="readmore = !readmore" class="mt-2 text-center rounded-xl p-2 bg-blue-500 text-black font-bold">
+  {{ readmore ? 'Read Less' : 'Read More' }}
+</button>
         <p class="font-bold text-end">{{ article.author }}</p>
       </div>
     </div>
