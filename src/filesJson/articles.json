@@ -47,5 +47,12 @@
     "description": "Node.js is an open source computing platform based on Google's V8 JavaScript runtime.  It is used to create web applications, backend applications, mobile applications, Internet of Things (IoT) applications, and much more.  Node.js is an event-driven and asynchronous programming language, which means it is ideal for handling large volumes of data and events.  It is also very resource-efficient, which makes it a good choice for applications that need to run on resource-constrained devices.",
     "author": "IA Bard",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn1SK_GMlmKNTxSMNFNXOOxvAOqe9y1qR01A&usqp=CAU"
+  },
+    {
+    "id": 8,
+    "title": "Golang",
+    "description": "Go is a programming language created by Google in 2009, known for its simple syntax and easy learning, as well as offering native support for concurrent programming.  It is widely used in several areas, including: Web development: Fast, efficient and easy to use, Go is a solid choice for web applications.  Infrastructure development: Its robustness and scalability make Go an ideal option for infrastructure development.  Mobile App Development: Usable in creating mobile apps for Android and iOS.  Some renowned companies adopting Go include: Google: Standard in projects such as Kubernetes, TensorFlow, and Cloud Platform.  Netflix: Used in the development of the video streaming service.  Amazon: Chosen for e-commerce platform.  Twitter: Present in the construction of the social media platform.  Uber: Used in the development of the transport application.  In short, Go is a powerful and versatile language, gaining popularity in companies of different sizes.",
+    "author": "IA Bard",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU5Xwh_jFPiEVscuIbSXdYofFp9OXfz4mVDg&usqp=CAU"
   }
 ]
