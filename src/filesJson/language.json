@@ -88,5 +88,10 @@
     "id": 18,
     "nome": "Docker",
     "imagem": "https://i.ibb.co/YDhkQp5/Design-sem-nome-2.png"
+  },
+  {
+    "id": 19,
+    "nome": "Ruby on Rails",
+    "imagem": "https://i.ibb.co/wJNhQc7/rails.png"
   }
 ]
