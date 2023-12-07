@@ -10,6 +10,7 @@ import Home from './Views/Home.vue'
 import Projects from './Views/Projects.vue'
 import Articles from './Views/Articles.vue'
 import Perfil from './Views/Perfil.vue'
+import Blog from './Views/Blog.vue'
 
 const router = createRouter({ 
   history: createWebHistory(),
@@ -29,6 +30,10 @@ const router = createRouter({
     {
       path: "/user",
       component: Perfil
+    },
+    {
+      path: "/blog",
+      component: Blog
     }
   ]
 })
