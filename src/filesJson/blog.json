@@ -5,5 +5,12 @@
     "description": "Nessa quarta-feira à noite tive a grande felicidade de ver meu time ser campeão brasileiro novamente, quebrando todas as expectativas dos rivais. Tive um grande prazer de ver um clube rival (Santos) ser rebaixado pra 2° divisão e isso colocou a cereja do bolo para finalizar um grande dia.",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDqGkcI-NqmvRrvLXd2uHTJVicG6NEQh8DSg&usqp=CAU",
     "date": "06-12-2023"
-  }
+  },
+    {
+    "id": "2",
+    "title": "Ruby on Rails",
+    "description": "Hoje postei a primeira aula do meu curso de Ruby on Rails, onde meu intuito é passar meus conhecimentos ao mesmo tempo que venho adquirindo mais conhecimentos com a tecnologia!",
+    "image": "https://i.ytimg.com/vi/pS8Ant1ii4g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIIm5tVzNIvTdi6Cjbn-cWpxvVVA",
+    "date": "06-12-2023"
+    }
 ]
