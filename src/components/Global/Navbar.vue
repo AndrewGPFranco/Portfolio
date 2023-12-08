@@ -62,17 +62,16 @@ export default {
 </script>
 
 <style scoped>
+li:hover {
+  border: 2px solid black;
+  color: black;
+}
+
 @media only screen and (min-width: 720px) {
-
-  li:hover {
-    border: 2px solid black;
-    color: black;
-  }
-
   ul {
     display: flex;
     flex-direction: row;
     justify-content: center;
   }
-} 
+}
 </style>
