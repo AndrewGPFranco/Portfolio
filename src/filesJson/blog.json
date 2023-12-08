@@ -12,5 +12,12 @@
     "description": "Hoje postei a primeira aula do meu curso de Ruby on Rails, onde meu intuito é passar meus conhecimentos ao mesmo tempo que venho adquirindo mais conhecimentos com a tecnologia!",
     "image": "https://i.ytimg.com/vi/pS8Ant1ii4g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIIm5tVzNIvTdi6Cjbn-cWpxvVVA",
     "date": "06-12-2023"
-    }
+    },
+  {
+    "id": "3",
+    "title": "Ansiedade e Estudos",
+    "description": "Me encontro ansioso para minhas ferias de fim de ano da empresa e bem contente por saber que terei mais tempo de me empenhar nos estudos e codar mais. Hoje comecei a manhã com leves estudos na documentação do Laravel e do Spring e logo quero continuar o aprendizado de Ruby on Rails que estou atualmente me aprofundando utilizando somente a documentação e por fim continuar com a saga do Inglês, que a cada dia que passa venho melhorando bastante.",
+    "image": "",
+    "date": "08-12-2023"
+  }
 ]
