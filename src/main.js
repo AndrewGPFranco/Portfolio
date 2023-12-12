@@ -11,6 +11,7 @@ import Projects from './Views/Projects.vue'
 import Articles from './Views/Articles.vue'
 import Perfil from './Views/Perfil.vue'
 import Blog from './Views/Blog.vue'
+import NotFound from './Views/NotFound.vue'
 
 const router = createRouter({ 
   history: createWebHistory(),
@@ -34,6 +35,10 @@ const router = createRouter({
     {
       path: "/blog",
       component: Blog
+    },
+    {
+      path: "/:notFound",
+      component: NotFound
     }
   ]
 })
