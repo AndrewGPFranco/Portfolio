@@ -22,4 +22,17 @@ export default {
 section {
   margin-bottom: -10px;
 }
+
+i {
+  padding: 10px;
+}
+
+i:hover {
+  background-color: rgb(173, 173, 173);
+  border-radius: 40%;
+}
+
+#imageUser:hover {
+  border: 2px solid rgb(255, 0, 0);
+}
 </style>
