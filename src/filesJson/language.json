@@ -10,11 +10,6 @@
     "imagem": "https://i.ibb.co/cC7pdTY/php.png"
   },
   {
-    "id": 3,
-    "nome": "Angular",
-    "imagem": "https://i.ibb.co/W5ftLK6/angular.png"
-  },
-  {
     "id": 4,
     "nome": "Spring Boot",
     "imagem": "https://i.ibb.co/f27wdz5/spring.png"
@@ -83,10 +78,5 @@
     "id": 18,
     "nome": "Docker",
     "imagem": "https://i.ibb.co/YDhkQp5/Design-sem-nome-2.png"
-  },
-  {
-    "id": 19,
-    "nome": "Ruby on Rails",
-    "imagem": "https://i.ibb.co/wJNhQc7/rails.png"
   }
 ]
