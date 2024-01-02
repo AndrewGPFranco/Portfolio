@@ -33,5 +33,12 @@
     "description": "Na véspera de Natal tive a grande felicidade de pedir minha namorada em casamento e assim ficar noivo. Uma enorme felicidade tanto pra mim quanto pra ela.",
     "image": "",
     "date": "24-12-2023"
-      }
+      },
+  {
+    "id": "6",
+    "title": "ANO NOVO",
+    "description": "Venho desejar um feliz ano novo a todos, que seja um ano de muitas conquistas e que de tudo certo, aqui encerro meu ano com meu ultimo commit!",
+    "image": "",
+    "date": "31-12-2023"
+  }
 ]
