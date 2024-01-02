@@ -24,6 +24,7 @@
     "link": "https://www.youtube.com/embed/uGSDovBg1p4?si=J8WrPhmnj3xoLSxY",
     "technology": [
       "https://i.ibb.co/drrxzN9/laravel.png",
+      "https://i.ibb.co/Yht90fY/tailwind.png",
       "https://i.ibb.co/wyzL97g/mysql.png"
     ]
   },
@@ -34,6 +35,7 @@
     "technology": [
       "https://i.ibb.co/f27wdz5/spring.png",
       "https://i.ibb.co/drrxzN9/laravel.png",
+      "https://i.ibb.co/Yht90fY/tailwind.png",
       "https://i.ibb.co/wyzL97g/mysql.png",
       "https://i.ibb.co/HXq4tBM/vue.png"
     ]
@@ -41,11 +43,12 @@
   {
     "id": 5,
     "title": "World Series",
-    "link": "",
+    "link": "https://www.youtube.com/embed/ts8i-6AtDfc?si=dT3hf6EgNPxcFMyo",
     "technology": [
       "https://i.ibb.co/drrxzN9/laravel.png",
       "https://i.ibb.co/yYyxVqh/typescript.png",
       "https://i.ibb.co/9t6YkBF/react.png",
+      "https://i.ibb.co/Yht90fY/tailwind.png",
       "https://i.ibb.co/wyzL97g/mysql.png"
     ]
   }
