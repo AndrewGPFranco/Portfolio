@@ -135,5 +135,42 @@
       "https://i.ibb.co/WnqxL8d/html.png",
       "https://i.ibb.co/bFXpr1R/css.png"
     ]
+  },
+  {
+    "id": 14,
+    "title": "Plataforma EAD",
+    "link": "https://github.com/AndrewGPSilva/FrontEnd---PlataformaTI",
+    "image": "https://i.ibb.co/D9npWK7/64c7eeb5-d475-40a8-a6c6-85c15b7742a8.jpg",
+    "technology": [
+      "https://i.ibb.co/cC7pdTY/php.png",
+      "https://i.ibb.co/drrxzN9/laravel.png",
+      "https://i.ibb.co/HXq4tBM/vue.png",
+      "https://i.ibb.co/wyzL97g/mysql.png"
+    ]
+  },
+{
+    "id": 15,
+    "title": "Cardápio Digital",
+    "link": "https://youtu.be/lDSNpT-zP7g?si=8PgbE3upBh_lqFU6",
+    "image": "https://i.ibb.co/CVbp7Rj/6fae41cd-c061-4351-974b-1a8df8dfa85f.jpg",
+    "technology": [
+      "https://i.ibb.co/cC7pdTY/php.png",
+      "https://i.ibb.co/WnqxL8d/html.png",
+      "https://i.ibb.co/bFXpr1R/css.png",
+      "https://i.ibb.co/wyzL97g/mysql.png"
+    ]
+},
+  {
+    "id": 16,
+    "title": "World Series",
+    "link": "https://github.com/AndrewGPSilva/worldseriesASL",
+    "image": "https://i.ibb.co/QHB00KJ/c7038eb6-b868-48b1-b484-f66da634a3aa.jpg",
+    "technology": [
+      "https://i.ibb.co/drrxzN9/laravel.png",
+      "https://i.ibb.co/yYyxVqh/typescript.png",
+      "https://i.ibb.co/HXq4tBM/vue.png",
+      "https://i.ibb.co/Yht90fY/tailwind.png",
+      "https://i.ibb.co/wyzL97g/mysql.png"
+    ]
   }
 ]

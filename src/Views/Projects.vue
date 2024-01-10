@@ -5,8 +5,8 @@
   <main class="py-4 px-3 bg-black">
     <BtnTop />
     <h1 class="-mt-3 mb-2 text-blue-300 text-center font-bold text-4xl">my PROJECTS</h1>
-    <CardVideo />
     <Card />
+    <CardVideo />
   </main>
   <footer>
     <Baseboard />

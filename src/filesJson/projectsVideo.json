@@ -10,44 +10,11 @@
     ]
   },
   {
-    "id": 2,
-    "title": "Cardapio Digital",
-    "link": "https://www.youtube.com/embed/lDSNpT-zP7g?si=bQwW2NptZDZ1MxMu",
-    "technology": [
-      "https://i.ibb.co/cC7pdTY/php.png",
-      "https://i.ibb.co/wyzL97g/mysql.png"
-    ]
-  },
-  {
     "id": 3,
     "title": "Place Tv",
     "link": "https://www.youtube.com/embed/uGSDovBg1p4?si=J8WrPhmnj3xoLSxY",
     "technology": [
       "https://i.ibb.co/drrxzN9/laravel.png",
-      "https://i.ibb.co/Yht90fY/tailwind.png",
-      "https://i.ibb.co/wyzL97g/mysql.png"
-    ]
-  },
-  {
-    "id": 4,
-    "title": "Plataforma TI",
-    "link": "https://player.vimeo.com/video/897806834?h=d1a55f1592",
-    "technology": [
-      "https://i.ibb.co/f27wdz5/spring.png",
-      "https://i.ibb.co/drrxzN9/laravel.png",
-      "https://i.ibb.co/Yht90fY/tailwind.png",
-      "https://i.ibb.co/wyzL97g/mysql.png",
-      "https://i.ibb.co/HXq4tBM/vue.png"
-    ]
-  },
-  {
-    "id": 5,
-    "title": "World Series",
-    "link": "https://www.youtube.com/embed/ts8i-6AtDfc?si=dT3hf6EgNPxcFMyo",
-    "technology": [
-      "https://i.ibb.co/drrxzN9/laravel.png",
-      "https://i.ibb.co/yYyxVqh/typescript.png",
-      "https://i.ibb.co/HXq4tBM/vue.png",
       "https://i.ibb.co/Yht90fY/tailwind.png",
       "https://i.ibb.co/wyzL97g/mysql.png"
     ]
