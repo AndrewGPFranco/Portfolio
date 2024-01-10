@@ -124,5 +124,14 @@
       "https://i.ibb.co/tYgKkz4/java.png",
       "https://i.ibb.co/f27wdz5/spring.png"
     ]
+  },
+  {
+    "id": 13,
+    "title": "Music Player",
+    "link": "https://musicplayer-puce.vercel.app/",
+    "image": "https://i.ibb.co/B4rzmms/17b35a9b-4971-46a2-8da6-6d5e5171d074.jpg",
+    "technology": [
+      "https://i.ibb.co/9t6YkBF/react.png"
+    ]
   }
 ]
