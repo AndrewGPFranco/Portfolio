@@ -27,7 +27,7 @@ export default {
   name: "Articles",
   components: {
     Navbar,
-    Search, 
+    Search,
     Category,
     Card,
     Baseboard
@@ -40,7 +40,15 @@ export default {
   },
   created() {
     this.articles = articles,
-    this.articlesfe = articlesfe
+      this.articlesfe = articlesfe
   }
 }
 </script>
+
+<style scoped>
+@media screen and (max-width: 768px) {
+  ::-webkit-scrollbar {
+  width: 12px;
+}
+}
+</style>
