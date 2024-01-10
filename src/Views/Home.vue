@@ -3,9 +3,9 @@
     <Navbar />
   </header>
   <main>
+    <BtnTop />
     <Description />
     <Perfil />
-    <Stack />
     <Biography />
     <Skills />
     <Ask />
@@ -26,6 +26,8 @@ import Description from "../components/Home/Description.vue"
 import Perfil from "../components/Home/Perfil.vue"
 import Ask from "../components/Home/Ask.vue"
 import Formulario from "../components/Home/Formulario.vue"
+import BtnTop from "../components/Global/BtnTop.vue"
+  
 export default {
   name: "Home",
   components: {
@@ -37,7 +39,8 @@ export default {
     Description,
     Perfil,
     Ask,
-    Formulario
+    Formulario,
+    BtnTop
   }
 }
 </script>
