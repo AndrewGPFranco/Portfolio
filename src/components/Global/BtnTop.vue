@@ -1,7 +1,7 @@
 <template>
   <div>
     <button class="btn-voltar-topo" @click="scrollToTop" v-show="!scrollAtTop">
-      TOP
+      <i class="pi pi-arrow-circle-up" style="font-size: 1.7em;"></i>
     </button>
   </div>
 </template>
@@ -39,9 +39,11 @@ export default {
   right: 20px;
   background-color: #fff;
   color: #000;
-  padding: 10px;
-  border-radius: 5px;
+  padding: 5px;
+  border-radius: 50%;
   cursor: pointer;
+  display: flex;
+  align-items: center;
 }
 
 .btn-voltar-topo:hover {
