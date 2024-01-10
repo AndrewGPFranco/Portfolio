@@ -1,32 +1,37 @@
 <template>
-  <section class="p-5">
-    <div v-for="thought in thoughts" :key="thought.id" class="card">
-<div class="header"></div>
-<div class="info">
-  <p class="title">
-    {{ thought.title }}
-  </p>
-  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-molestiae quas vel sint commodi. </p>
-</div>
-<div class="footer">
-  <p class="tag">#HTML #CSS </p>
-  <button type="button" class="action">Get started </button>
-</div>
-</div>
+  <section class="mt-10 flex flex-col justify-center">
+    <div v-for="thought in thoughts" :key="thought.id"
+      class="relative mx-auto m-5 flex w-80 flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
+      <div v-if="thought.image"
+        class="relative mx-4 -mt-6 h-40 overflow-hidden rounded-xl bg-blue-gray-500 bg-clip-border text-white shadow-lg shadow-blue-gray-500/40 bg-gradient-to-r from-blue-500 to-blue-600">
+        <img :src="thought.image" alt="Capa do Projeto">
+      </div>
+      <div class="p-6">
+        <h5
+          class="mb-2 block font-sans text-xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">
+          {{ thought.title }}
+        </h5>
+        <p class="block font-sans text-base font-light leading-relaxed text-inherit antialiased">
+          {{ thought.description }}
+        </p>
+      </div>
+      <div class="flex justify-end p-2 font-bold">
+        {{ thought.date }}
+      </div>
+    </div>
   </section>
 </template>
 
 <script>
-  import thoughts from "../../filesJson/blog.json"
-  export default {
-    name: "Thought",
-    data(){
-      return {
-        thoughts
-      }
+import thoughts from "../../filesJson/blog.json"
+export default {
+  name: "Thought",
+  data() {
+    return {
+      thoughts
     }
   }
+}
 </script>
 
 <style scoped>
@@ -36,10 +41,11 @@ molestiae quas vel sint commodi. </p>
   justify-content: space-between;
   border-radius: 0.75rem;
   background-color: white;
+  margin: 20px;
   width: 300px;
   height: 370px;
-  box-shadow: 0 4px 6px -1px rgba(0,0,0,.1),
-  0 2px 4px -2px rgba(0,0,0,.1);
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, .1),
+    0 2px 4px -2px rgba(0, 0, 0, .1);
 }
 
 .header {
@@ -50,7 +56,7 @@ molestiae quas vel sint commodi. </p>
   margin-right: 1rem;
   border-radius: 0.75rem;
   background-color: rgb(33 150 243);
-  box-shadow: 0 10px 15px -3px rgba(33,150,243,.4),0 4px 6px -4px rgba(33,150,243,.4);
+  box-shadow: 0 10px 15px -3px rgba(33, 150, 243, .4), 0 4px 6px -4px rgba(33, 150, 243, .4);
   height: 14rem;
 }
 
@@ -90,7 +96,7 @@ molestiae quas vel sint commodi. </p>
   user-select: none;
   border: none;
   outline: none;
-  box-shadow: 0 4px 6px -1px rgba(33,150,243,.4),0 2px 4px -2px rgba(33,150,243,.4);
+  box-shadow: 0 4px 6px -1px rgba(33, 150, 243, .4), 0 2px 4px -2px rgba(33, 150, 243, .4);
   color: rgb(255 255 255);
   text-transform: uppercase;
   font-weight: 700;
@@ -99,5 +105,4 @@ molestiae quas vel sint commodi. </p>
   background-color: rgb(33 150 243);
   border-radius: 0.5rem;
 }
-
 </style>
