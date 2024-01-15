@@ -1,5 +1,66 @@
 [
   {
+    "id": 13,
+    "title": "Music Player",
+    "link": "https://musicplayer-puce.vercel.app/",
+    "image": "https://i.ibb.co/B4rzmms/17b35a9b-4971-46a2-8da6-6d5e5171d074.jpg",
+    "technology": [
+      "https://i.ibb.co/9t6YkBF/react.png",
+      "https://i.ibb.co/WnqxL8d/html.png",
+      "https://i.ibb.co/bFXpr1R/css.png"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Plataforma EAD",
+    "link": "https://github.com/AndrewGPSilva/FrontEnd---PlataformaTI",
+    "image": "https://i.ibb.co/D9npWK7/64c7eeb5-d475-40a8-a6c6-85c15b7742a8.jpg",
+    "technology": [
+      "https://i.ibb.co/cC7pdTY/php.png",
+      "https://i.ibb.co/drrxzN9/laravel.png",
+      "https://i.ibb.co/HXq4tBM/vue.png",
+      "https://i.ibb.co/wyzL97g/mysql.png"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "World Series",
+    "link": "https://github.com/AndrewGPSilva/worldseriesASL",
+    "image": "https://i.ibb.co/QHB00KJ/c7038eb6-b868-48b1-b484-f66da634a3aa.jpg",
+    "technology": [
+      "https://i.ibb.co/drrxzN9/laravel.png",
+      "https://i.ibb.co/yYyxVqh/typescript.png",
+      "https://i.ibb.co/HXq4tBM/vue.png",
+      "https://i.ibb.co/Yht90fY/tailwind.png",
+      "https://i.ibb.co/wyzL97g/mysql.png"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Cardápio Digital",
+    "link": "https://youtu.be/lDSNpT-zP7g?si=8PgbE3upBh_lqFU6",
+    "image": "https://i.ibb.co/CVbp7Rj/6fae41cd-c061-4351-974b-1a8df8dfa85f.jpg",
+    "technology": [
+      "https://i.ibb.co/cC7pdTY/php.png",
+      "https://i.ibb.co/WnqxL8d/html.png",
+      "https://i.ibb.co/bFXpr1R/css.png",
+      "https://i.ibb.co/wyzL97g/mysql.png"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "APIs",
+    "link": "https://github.com/andrewgpsilva",
+    "image": "https://i.ibb.co/DpC23f3/20231203-120116-0000.jpg",
+    "technology": [
+      "https://i.ibb.co/RpmyqN4/go.png",
+      "https://i.ibb.co/cC7pdTY/php.png",
+      "https://i.ibb.co/drrxzN9/laravel.png",
+      "https://i.ibb.co/tYgKkz4/java.png",
+      "https://i.ibb.co/f27wdz5/spring.png"
+    ]
+  },
+  {
     "id": 1,
     "title": "Meet Me",
     "link": "https://me-conheca.vercel.app/",
@@ -89,18 +150,6 @@
     ]
   },
   {
-    "id": 10,
-    "title": "Store",
-    "link": "https://store-gps.vercel.app/",
-    "image": "https://i.ibb.co/P5Kmy4V/20231203-115827-0000.jpg",
-    "technology": [
-      "https://i.ibb.co/HXq4tBM/vue.png",
-      "https://i.ibb.co/WnqxL8d/html.png",
-      "https://i.ibb.co/Yht90fY/tailwind.png",
-      "https://i.ibb.co/bFXpr1R/css.png"
-    ]
-  },
-  {
     "id": 11,
     "title": "Vue Portfolio",
     "link": "https://portfvue.vercel.app/",
@@ -110,67 +159,6 @@
       "https://i.ibb.co/WnqxL8d/html.png",
       "https://i.ibb.co/bFXpr1R/css.png",
       "https://i.ibb.co/Yht90fY/tailwind.png"
-    ]
-  },
-  {
-    "id": 12,
-    "title": "APIs",
-    "link": "https://github.com/andrewgpsilva",
-    "image": "https://i.ibb.co/DpC23f3/20231203-120116-0000.jpg",
-    "technology": [
-      "https://i.ibb.co/RpmyqN4/go.png",
-      "https://i.ibb.co/cC7pdTY/php.png",
-      "https://i.ibb.co/drrxzN9/laravel.png",
-      "https://i.ibb.co/tYgKkz4/java.png",
-      "https://i.ibb.co/f27wdz5/spring.png"
-    ]
-  },
-  {
-    "id": 13,
-    "title": "Music Player",
-    "link": "https://musicplayer-puce.vercel.app/",
-    "image": "https://i.ibb.co/B4rzmms/17b35a9b-4971-46a2-8da6-6d5e5171d074.jpg",
-    "technology": [
-      "https://i.ibb.co/9t6YkBF/react.png",
-      "https://i.ibb.co/WnqxL8d/html.png",
-      "https://i.ibb.co/bFXpr1R/css.png"
-    ]
-  },
-  {
-    "id": 14,
-    "title": "Plataforma EAD",
-    "link": "https://github.com/AndrewGPSilva/FrontEnd---PlataformaTI",
-    "image": "https://i.ibb.co/D9npWK7/64c7eeb5-d475-40a8-a6c6-85c15b7742a8.jpg",
-    "technology": [
-      "https://i.ibb.co/cC7pdTY/php.png",
-      "https://i.ibb.co/drrxzN9/laravel.png",
-      "https://i.ibb.co/HXq4tBM/vue.png",
-      "https://i.ibb.co/wyzL97g/mysql.png"
-    ]
-  },
-{
-    "id": 15,
-    "title": "Cardápio Digital",
-    "link": "https://youtu.be/lDSNpT-zP7g?si=8PgbE3upBh_lqFU6",
-    "image": "https://i.ibb.co/CVbp7Rj/6fae41cd-c061-4351-974b-1a8df8dfa85f.jpg",
-    "technology": [
-      "https://i.ibb.co/cC7pdTY/php.png",
-      "https://i.ibb.co/WnqxL8d/html.png",
-      "https://i.ibb.co/bFXpr1R/css.png",
-      "https://i.ibb.co/wyzL97g/mysql.png"
-    ]
-},
-  {
-    "id": 16,
-    "title": "World Series",
-    "link": "https://github.com/AndrewGPSilva/worldseriesASL",
-    "image": "https://i.ibb.co/QHB00KJ/c7038eb6-b868-48b1-b484-f66da634a3aa.jpg",
-    "technology": [
-      "https://i.ibb.co/drrxzN9/laravel.png",
-      "https://i.ibb.co/yYyxVqh/typescript.png",
-      "https://i.ibb.co/HXq4tBM/vue.png",
-      "https://i.ibb.co/Yht90fY/tailwind.png",
-      "https://i.ibb.co/wyzL97g/mysql.png"
     ]
   }
 ]
