@@ -33,10 +33,6 @@ const router = createRouter({
       component: Perfil
     },
     {
-      path: "/blog",
-      component: Blog
-    },
-    {
       path: "/:notFound",
       component: NotFound
     }
