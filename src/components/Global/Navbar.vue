@@ -9,7 +9,7 @@
         <i class="pi pi-times"></i>
       </button>
     </div>
-    <div v-show="ativado">
+    <div class="animacao" v-show="ativado">
       <ul class="text-black flex flex-col text-center bg-white p-5">
         <router-link to="/" class="flex justify-center">
           <li
@@ -26,13 +26,6 @@
             class="text-purple-700 border-2 border-purple-500 text-xl px-5 py-1 text-center m-1 rounded-full w-auto font-bold">
             Projects</li>
         </router-link>
-        <!--
-        <router-link to="/blog" class="flex justify-center">
-          <li
-            class="text-purple-700 border-2 border-purple-500 text-xl px-5 py-1 text-center m-1 rounded-full w-auto font-bold">
-            Time Line</li>
-        </router-link>
-        -->
       </ul>
     </div>
   </nav>
@@ -67,6 +60,11 @@ export default {
 li:hover {
   border: 2px solid black;
   color: black;
+}
+
+.animacao {
+  animation: slideInRight;
+  animation-duration: 1s;
 }
 
 @media only screen and (min-width: 720px) {
