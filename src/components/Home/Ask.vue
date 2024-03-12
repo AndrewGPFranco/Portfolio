@@ -16,7 +16,7 @@
     </div>
     <div v-if="ativado" class="p-4 border border-black animacao" id="box">
       <p class="text-white">
-        In everyday life I tend to use Spring and Angular a lot. In addition to these, I usually use Laravel, Vue and
+        In everyday life I tend to use Spring and Vue.js a lot. In addition to these, I usually use Laravel, Vue and
         Tailwind!
       </p>
     </div>

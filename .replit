@@ -34,3 +34,7 @@ start = "typescript-language-server --stdio"
 deploymentTarget = "static"
 build = ["npm", "run", "build"]
 publicDir = "dist"
+
+[[ports]]
+localPort = 5173
+externalPort = 80

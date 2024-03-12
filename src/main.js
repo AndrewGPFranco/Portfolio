@@ -10,7 +10,7 @@ import Home from './Views/Home.vue'
 import Projects from './Views/Projects.vue'
 import Articles from './Views/Articles.vue'
 import Perfil from './Views/Perfil.vue'
-import Blog from './Views/Blog.vue'
+import Hobby from './Views/Hobby.vue'
 import NotFound from './Views/NotFound.vue'
 
 const router = createRouter({ 
@@ -35,6 +35,10 @@ const router = createRouter({
     {
       path: "/:notFound",
       component: NotFound
+    },
+    {
+      path: "/hobby",
+      component: Hobby
     }
   ]
 })
