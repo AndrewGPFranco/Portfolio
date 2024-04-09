@@ -10,8 +10,8 @@ import Home from './Views/Home.vue'
 import Projects from './Views/Projects.vue'
 import Articles from './Views/Articles.vue'
 import Perfil from './Views/Perfil.vue'
-import Hobby from './Views/Hobby.vue'
 import NotFound from './Views/NotFound.vue'
+import Carreira from './Views/Carreira.vue'
 
 const router = createRouter({ 
   history: createWebHistory(),
@@ -37,8 +37,8 @@ const router = createRouter({
       component: NotFound
     },
     {
-      path: "/hobby",
-      component: Hobby
+      path: "/carreira",
+      component: Carreira
     }
   ]
 })
