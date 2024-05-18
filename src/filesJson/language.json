@@ -1,15 +1,5 @@
 [
   {
-    "id": 1,
-    "nome": "Laravel",
-    "imagem": "https://i.ibb.co/drrxzN9/laravel.png"
-  },
-  {
-    "id": 2,
-    "nome": "PHP",
-    "imagem": "https://i.ibb.co/cC7pdTY/php.png"
-  },
-  {
     "id": 4,
     "nome": "Spring Boot",
     "imagem": "https://i.ibb.co/f27wdz5/spring.png"
@@ -33,16 +23,6 @@
     "id": 8,
     "nome": "Vue",
     "imagem": "https://i.ibb.co/HXq4tBM/vue.png"
-  },
-  {
-    "id": 9,
-    "nome": "React",
-    "imagem": "https://i.ibb.co/9t6YkBF/react.png"
-  },
-  {
-    "id": 10,
-    "nome": "HTML",
-    "imagem": "https://i.ibb.co/WnqxL8d/html.png"
   },
   {
     "id": 11,

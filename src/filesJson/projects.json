@@ -1,6 +1,6 @@
 [
   {
-    "id": 13,
+    "id": 1,
     "title": "Music Player",
     "link": "https://musicplayer-puce.vercel.app/",
     "image": "https://i.ibb.co/B4rzmms/17b35a9b-4971-46a2-8da6-6d5e5171d074.jpg",
@@ -11,134 +11,18 @@
     ]
   },
   {
-    "id": 14,
+    "id": 2,
     "title": "Plataforma EAD",
-    "link": "https://github.com/AndrewGPSilva/FrontEnd---PlataformaTI",
+    "link": "https://github.com/AndrewGPSilva/FE_TIv2",
     "image": "https://i.ibb.co/D9npWK7/64c7eeb5-d475-40a8-a6c6-85c15b7742a8.jpg",
     "technology": [
-      "https://i.ibb.co/cC7pdTY/php.png",
-      "https://i.ibb.co/drrxzN9/laravel.png",
-      "https://i.ibb.co/HXq4tBM/vue.png",
-      "https://i.ibb.co/wyzL97g/mysql.png"
-    ]
-  },
-  {
-    "id": 16,
-    "title": "World Series",
-    "link": "https://github.com/AndrewGPSilva/worldseriesASL",
-    "image": "https://i.ibb.co/QHB00KJ/c7038eb6-b868-48b1-b484-f66da634a3aa.jpg",
-    "technology": [
-      "https://i.ibb.co/drrxzN9/laravel.png",
-      "https://i.ibb.co/yYyxVqh/typescript.png",
-      "https://i.ibb.co/HXq4tBM/vue.png",
-      "https://i.ibb.co/Yht90fY/tailwind.png",
-      "https://i.ibb.co/wyzL97g/mysql.png"
-    ]
-  },
-  {
-    "id": 15,
-    "title": "Cardápio Digital",
-    "link": "https://youtu.be/lDSNpT-zP7g?si=8PgbE3upBh_lqFU6",
-    "image": "https://i.ibb.co/CVbp7Rj/6fae41cd-c061-4351-974b-1a8df8dfa85f.jpg",
-    "technology": [
-      "https://i.ibb.co/cC7pdTY/php.png",
-      "https://i.ibb.co/WnqxL8d/html.png",
-      "https://i.ibb.co/bFXpr1R/css.png",
-      "https://i.ibb.co/wyzL97g/mysql.png"
-    ]
-  },
-  {
-    "id": 12,
-    "title": "APIs",
-    "link": "https://github.com/andrewgpsilva",
-    "image": "https://i.ibb.co/DpC23f3/20231203-120116-0000.jpg",
-    "technology": [
-      "https://i.ibb.co/RpmyqN4/go.png",
-      "https://i.ibb.co/cC7pdTY/php.png",
-      "https://i.ibb.co/drrxzN9/laravel.png",
       "https://i.ibb.co/tYgKkz4/java.png",
-      "https://i.ibb.co/f27wdz5/spring.png"
+      "https://i.ibb.co/HXq4tBM/vue.png",
+      "https://i.ibb.co/wyzL97g/mysql.png"
     ]
   },
   {
-    "id": 1,
-    "title": "Meet Me",
-    "link": "https://me-conheca.vercel.app/",
-    "image": "https://i.ibb.co/VN9QZ58/meconheca.png",
-    "technology": [
-      "https://i.ibb.co/9t6YkBF/react.png",
-      "https://i.ibb.co/WnqxL8d/html.png",
-      "https://i.ibb.co/bFXpr1R/css.png"
-    ]
-  },
-  {
-    "id": 2,
-    "title": "Currency Converter",
-    "link": "https://banco-conversoes.vercel.app/",
-    "image": "https://i.ibb.co/6HmFMLK/apibank.png",
-    "technology": [
-      "https://i.ibb.co/WnqxL8d/html.png",
-      "https://i.ibb.co/bFXpr1R/css.png",
-      "https://i.ibb.co/k2YWfNf/javascript.png"
-    ]
-  },
-  {
-    "id": 4,
-    "title": "Space Animes",
-    "link": "https://space-animes.vercel.app/",
-    "image": "https://i.ibb.co/k0QTNpG/space-animes.png",
-    "technology": [
-      "https://i.ibb.co/9t6YkBF/react.png",
-      "https://i.ibb.co/WnqxL8d/html.png",
-      "https://i.ibb.co/bFXpr1R/css.png"
-    ]
-  },
-  {
-    "id": 5,
-    "title": "Crew",
-    "link": "https://tripula-one-piece.vercel.app/",
-    "image": "https://i.ibb.co/QFQYVVx/organo.png",
-    "technology": [
-      "https://i.ibb.co/9t6YkBF/react.png",
-      "https://i.ibb.co/WnqxL8d/html.png",
-      "https://i.ibb.co/bFXpr1R/css.png"
-    ]
-  },
-  {
-    "id": 6,
-    "title": "Place TV",
-    "link": "https://placetv.vercel.app/",
-    "image": "https://i.ibb.co/Z20VCgr/placereact.png",
-    "technology": [
-      "https://i.ibb.co/9t6YkBF/react.png",
-      "https://i.ibb.co/WnqxL8d/html.png",
-      "https://i.ibb.co/bFXpr1R/css.png"
-    ]
-  },
-  {
-    "id": 7,
-    "title": "React Portfolio",
-    "link": "https://react-port-liart.vercel.app/",
-    "image": "https://i.ibb.co/L0THmMN/20231203-120421-0000.jpg",
-    "technology": [
-      "https://i.ibb.co/9t6YkBF/react.png",
-      "https://i.ibb.co/WnqxL8d/html.png",
-      "https://i.ibb.co/bFXpr1R/css.png"
-    ]
-  },
-  {
-    "id": 8,
-    "title": "First Portfolio",
-    "link": "https://presentation-bice.vercel.app/",
-    "image": "https://i.ibb.co/D9N277h/20231203-120635-0000.jpg",
-    "technology": [
-      "https://i.ibb.co/WnqxL8d/html.png",
-      "https://i.ibb.co/bFXpr1R/css.png",
-      "https://i.ibb.co/k2YWfNf/javascript.png"
-    ]
-  },
-  {
-    "id": 9,
+    "id": 3,
     "title": "Blog",
     "link": "https://blog-vue-replit.vercel.app/",
     "image": "https://i.ibb.co/KDTJwsT/Design-sem-nome-1.jpg",
@@ -150,7 +34,7 @@
     ]
   },
   {
-    "id": 11,
+    "id": 4,
     "title": "Vue Portfolio",
     "link": "https://portfvue.vercel.app/",
     "image": "https://i.ibb.co/hFsz9QB/Design-sem-nome.jpg",
@@ -159,6 +43,18 @@
       "https://i.ibb.co/WnqxL8d/html.png",
       "https://i.ibb.co/bFXpr1R/css.png",
       "https://i.ibb.co/Yht90fY/tailwind.png"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "APIs",
+    "link": "https://github.com/andrewgpsilva",
+    "image": "https://i.ibb.co/DpC23f3/20231203-120116-0000.jpg",
+    "technology": [
+      "https://i.ibb.co/cC7pdTY/php.png",
+      "https://i.ibb.co/drrxzN9/laravel.png",
+      "https://i.ibb.co/tYgKkz4/java.png",
+      "https://i.ibb.co/f27wdz5/spring.png"
     ]
   }
 ]

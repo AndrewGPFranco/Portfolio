@@ -11,7 +11,6 @@ import Projects from './Views/Projects.vue'
 import Articles from './Views/Articles.vue'
 import Perfil from './Views/Perfil.vue'
 import NotFound from './Views/NotFound.vue'
-import Carreira from './Views/Carreira.vue'
 
 const router = createRouter({ 
   history: createWebHistory(),
@@ -36,10 +35,6 @@ const router = createRouter({
       path: "/:notFound",
       component: NotFound
     },
-    {
-      path: "/carreira",
-      component: Carreira
-    }
   ]
 })
 
